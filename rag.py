@@ -105,10 +105,12 @@ class RAG():
                 match['metadata']['text'] for match in relevent_docs if 'text' in match['metadata']
             ]
         )
+        
         input_text = f"""
             Câu hỏi: {query} 
             Thông tin: {context}
         """
+        
         payload = {
             "model": "llama3.2",
             "prompt": input_text,
@@ -120,12 +122,12 @@ class RAG():
         ).json()
         self.context = response['context']
         answer = response['response']
-        print(answer)
+        
         return answer
    
 # # Create Vector DB 
 rag = RAG()
 legal_document_dir = './BoPhapDienDienTu/demuc'
 paths = [os.path.join(legal_document_dir, filename) for filename in os.listdir(legal_document_dir) if filename.endswith('.html')]
-rag.response_generate(query="hãy cho tôi biết về luật an ninh mạng")
+rag.create_vectordb(paths)
 
