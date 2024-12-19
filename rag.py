@@ -14,7 +14,7 @@ class RAG():
     def __init__(self):
         self.vector_model = SentenceTransformer('all-MiniLM-L6-v2')
         self.pinecone = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-        self.index_name = 'rag-chatbox-db'
+        self.index_name = 'legal-vector-db'
         
         if(self.index_name not in self.pinecone.list_indexes().names()):
             self.pinecone.create_index(
@@ -40,7 +40,7 @@ class RAG():
     
     def text_to_docs(self, text, filename):
         if isinstance(text, str):
-            return [Document(text, filename)]
+            text = [text]
         page_docs = [Document(page_content=page) for page in text]
         for i, doc in enumerate(page_docs):
             doc.metadata['page'] = i+1
@@ -48,7 +48,7 @@ class RAG():
         doc_chunks = []
         for doc in page_docs:
             text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=4096,
+                chunk_size=4000,
                 separators=['\n\n', '\n', '.', ',', '?', '!', ' ', ''],
                 chunk_overlap=0.1
             )
@@ -61,7 +61,7 @@ class RAG():
                 doc.metadata['source'] = (
                     f"{doc.metadata['page']}-{doc.metadata['chunk']}"
                 )
-                doc.metadata['filename'] = doc.metadata['source']
+                doc.metadata['filename'] = filename
                 doc_chunks.append(doc)
         return doc_chunks
     
@@ -71,7 +71,8 @@ class RAG():
             metadata = {
                 "page": doc.metadata['page'],
                 "chunk": doc.metadata['chunk'],
-                "filename": doc.metadata['filename']
+                "filename": doc.metadata['filename'],
+                "text": doc.page_content 
             }
             self.index.upsert(
                 vectors=[(doc.metadata['source'], embedding[0].tolist(), metadata)],
@@ -85,12 +86,12 @@ class RAG():
             document.extend(docs)
         self.index_docs(document)
         
-    def retrive_relevent_docs(self, query, top_k=10, threshold=0.8):
+    def retrive_relevent_docs(self, query, top_k=10, threshold=0.6):
         query_embedding = self.vector_model.encode([query])[0].tolist()
         results = self.index.query(
-            vectors=query_embedding,
+            vector=query_embedding,
             top_k=top_k,
-            include_metadata=True
+            include_metadata=True,
         )
         filtered_result = [
             match for match in results["matches"] if match['score'] > threshold
@@ -119,11 +120,12 @@ class RAG():
         ).json()
         self.context = response['context']
         answer = response['response']
-        
+        print(answer)
         return answer
    
 # # Create Vector DB 
-# rag = RAG()
-# legal_document_dir = './BoPhapDienDienTu/demuc'
-# paths = [os.path.join(legal_document_dir, filename) for filename in os.listdir(legal_document_dir) if filename.endswith('.html')]
-# rag.create_vectordb(paths)
+rag = RAG()
+legal_document_dir = './BoPhapDienDienTu/demuc'
+paths = [os.path.join(legal_document_dir, filename) for filename in os.listdir(legal_document_dir) if filename.endswith('.html')]
+rag.response_generate(query="hãy cho tôi biết về luật an ninh mạng")
+
