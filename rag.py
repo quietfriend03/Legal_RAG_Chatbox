@@ -11,7 +11,7 @@ class RAG:
         self.vector_model = SentenceTransformer(vector_model_name)
         self.context = []
 
-    def retrive_relevent_docs(self, query, top_k=10):
+    def retrive_relevent_docs(self, query, top_k=10, threshold=0):
         query_embedding = self.vector_model.encode([query])[0].tolist()
         self.collection.load()
         results = self.collection.search(
@@ -22,8 +22,10 @@ class RAG:
             expr=None,
             output_fields=["metadata"]
         )
-
-        return results
+        filtered_results = [
+            result for result in results[0] if result.score > threshold
+        ]
+        return filtered_results
 
     def response_generate(self, query):
         relevent_docs = self.retrive_relevent_docs(query)
