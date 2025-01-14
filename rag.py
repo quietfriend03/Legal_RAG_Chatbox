@@ -1,5 +1,7 @@
 from pymilvus import Collection, connections
 from sentence_transformers import SentenceTransformer
+from llama_index.core import Settings
+from llama_index.llms.ollama import Ollama
 import requests
 
 class RAG:
@@ -35,26 +37,13 @@ class RAG:
             ]
         )
         input_text = f"""
-            Câu hỏi: {query} 
-            Thông tin: {context}
+            ###Below is the conversation about the Vietnamese legal documents.\n\n### Question\nquestion: {query}?\n\n### Answer\nanswer: \n
         """
-        
-        payload = {
-            "model": "llama3.2",
-            "prompt": input_text,
-            "context": self.context,
-            "stream": False,
-        }
-        try:
-            response = requests.post(
-                url='http://localhost:11434/api/generate', json=payload
-            ).json()
-            self.context = response['context']
-            answer = response['response']
-            return answer
-        except requests.exceptions.ConnectionError as e:
-            print(f"ConnectionError: {e}")
-            return None
+            
+        Settings.llm = Ollama(model="finellama", request_timeout=100.0, additional_kwargs={"num_predict": 500}, temperature=0.0)
+        answer = Settings.llm.complete(input_text)
+        print(answer)
+        return answer
 
 # Example Usage
 # rag = RAG()
