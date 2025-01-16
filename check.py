@@ -39,9 +39,9 @@
         
 # print(results)
 
-from llama_index.core import Settings
-from llama_index.llms.ollama import Ollama
+# from llama_index.core import Settings
+# from llama_index.llms.ollama import Ollama
 
-Settings.llm = Ollama(model="finellama", request_timeout=100.0, additional_kwargs={"num_predict": 100}, temperature=0.0)
-resp = Settings.llm.complete("###Below is the conversation about the Vietnamese legal documents.\n\n### Question\nquestion: Hãy cho tôi biết luật hôn nhân?\n\n### Answer\nanswer: \n")
-print(resp)
+# Settings.llm = Ollama(model="legalllama", request_timeout=100.0, additional_kwargs={"num_predict": 200}, temperature=0.0)
+# resp = Settings.llm.complete("###Instruction\ninstruction: \n\n### Question\nquestion: Giấy khai sinh có giá trị pháp lý như thế nào?\n\n### Answer ")
+# print(resp)

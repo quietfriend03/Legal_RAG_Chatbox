@@ -37,12 +37,11 @@ class RAG:
             ]
         )
         input_text = f"""
-            ###Below is the conversation about the Vietnamese legal documents.\n\n### Question\nquestion: {query}?\n\n### Answer\nanswer: \n
+            ###Instruction\ninstruction:{context} \n\n### Question\nquestion: {query}\n\n### Answer\nanswer: 
         """
             
-        Settings.llm = Ollama(model="finellama", request_timeout=100.0, additional_kwargs={"num_predict": 500}, temperature=0.0)
+        Settings.llm = Ollama(model="legalllama", request_timeout=100.0, temperature=0.0)
         answer = Settings.llm.complete(input_text)
-        print(answer)
         return answer
 
 # Example Usage
