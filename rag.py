@@ -19,7 +19,7 @@ class RAG:
         results = self.collection.search(
             data=[query_embedding],
             anns_field="embedding",
-            param={"metric_type": "L2", "params": {"nprobe": 10}},
+            param={"metric_type": "COSINE", "params": {"nprobe": 10}},
             limit=top_k,
             expr=None,
             output_fields=["metadata"]
@@ -40,7 +40,7 @@ class RAG:
             ###Instruction\ninstruction:{context} \n\n### Question\nquestion: {query}\n\n### Answer\nanswer: 
         """
             
-        Settings.llm = Ollama(model="legalllama", request_timeout=100.0, temperature=0.0)
+        Settings.llm = Ollama(model="ollama3.2", request_timeout=100.0, temperature=0.0)
         answer = Settings.llm.complete(input_text)
         return answer
 

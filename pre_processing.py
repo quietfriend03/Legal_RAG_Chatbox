@@ -1,5 +1,6 @@
 import os
 from bs4 import BeautifulSoup
+import re
 
 class PreProcessingData:
     def __init__(self, save_dir):
@@ -14,6 +15,8 @@ class PreProcessingData:
         for script in soup(["script", "style"]):
             script.extract()
         text = soup.get_text()
+        text = re.sub(r'(?<!\()Chương\s+([IVXLCDM]+|\d+)', r'\n\g<0>', text)
+        text = re.sub(r'(?<!\()Điều\s+\d+', r'\n\g<0>', text)
         lines = (line.strip() for line in text.splitlines())
         chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
         text = '\n'.join(chunk for chunk in chunks if chunk)

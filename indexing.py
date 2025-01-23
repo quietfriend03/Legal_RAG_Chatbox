@@ -84,9 +84,16 @@ class VectorDBIndexer:
     def create_index(self):
         index_params = {
             "index_type": "IVF_FLAT",
-            "metric_type": "L2",
+            "metric_type": "COSINE",
             "params": {"nlist": 128},
         }
         print("Creating index...")
         self.collection.create_index(field_name="embedding", index_params=index_params)
         print("Index created successfully.")
+
+txt_dir = './processed_vn_legal_document'
+indexer = VectorDBIndexer(collection_name='rag_chatbox_db')
+indexer.index_docs(txt_dir=txt_dir)
+indexer.create_index()
+
+
