@@ -50,7 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+.processed_vn_legal_document
 # Translations
 *.mo
 *.pot

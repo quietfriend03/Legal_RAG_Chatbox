@@ -1,4 +1,5 @@
 import os
+import json
 from pymilvus import connections, FieldSchema, CollectionSchema, DataType, Collection, utility
 from sentence_transformers import SentenceTransformer
 from langchain.docstore.document import Document
@@ -30,70 +31,65 @@ class VectorDBIndexer:
         else:
             self.collection = Collection(self.collection_name)
 
-    def text_to_docs(self, text, filename):
-        text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1024,
-            separators=['\n\n', '\n', '.', ',', '?', '!', ' ', ''],
-            chunk_overlap=0.1
-        )
-        chunks = text_splitter.split_text(text)
-        doc_chunks = []
-        for i, chunk in enumerate(chunks):
-            doc = Document(
-                page_content=chunk,
-                metadata={
-                    "chunk": i,
-                    "source": f"{filename}-{i}",
-                    "filename": filename
-                }
-            )
-            doc_chunks.append(doc)
-        return doc_chunks
+    def process_json_data(self, json_file, batch_size=100):
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
 
-    def index_docs(self, txt_dir, batch_size=100):
-        legal_files = [os.path.join(txt_dir, f) for f in os.listdir(txt_dir) if f.endswith('.txt')]
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=1000,
+            chunk_overlap=100,
+            separators=["\n\n", "\n", ".", " ", ""]
+        )
+        
         batch_embeddings = []
         batch_metadata = []
-
-        for txt_file in legal_files:
-            with open(txt_file, 'r', encoding='utf-8') as file:
-                text = file.read()
-
-            docs = self.text_to_docs(text, os.path.basename(txt_file))
-            for doc in docs:
-                # Generate embedding for the document
-                embedding = self.vector_model.encode([doc.page_content])
-
+        
+        for entry in data:
+            # Split the content into smaller chunks
+            content = entry['nội_dung']
+            chunks = text_splitter.split_text(content)
+            
+            for i, chunk in enumerate(chunks):
+                # Create context-aware combined text
+                combined_text = f"Luật: {entry['luật']}\nĐiều {entry['điều']}: {entry['tên_điều']}\nPhần {i+1}/{len(chunks)}:\n{chunk}"
+                
+                # Generate embedding for the combined text
+                embedding = self.vector_model.encode([combined_text])
+                
                 metadata = {
-                    "chunk": doc.metadata['chunk'],
-                    "filename": doc.metadata['filename'],
-                    "text": doc.page_content
+                    "luật": entry['luật'],
+                    "điều": entry['điều'],
+                    "tên_điều": entry['tên_điều'],
+                    "chunk_index": i,
+                    "total_chunks": len(chunks),
+                    "chunk_content": chunk
                 }
-                batch_embeddings.append(embedding[0].tolist())  # Embedding (list of floats)
-                batch_metadata.append(metadata)  # Metadata (dict)
-
-                # Insert in batches
+                
+                batch_embeddings.append(embedding[0].tolist())
+                batch_metadata.append(metadata)
+                
                 if len(batch_embeddings) >= batch_size:
                     self.collection.insert([batch_embeddings, batch_metadata])
                     batch_embeddings, batch_metadata = [], []
-
-        # Insert remaining documents
+        
         if batch_embeddings:
             self.collection.insert([batch_embeddings, batch_metadata])
 
     def create_index(self):
         index_params = {
-            "index_type": "IVF_FLAT",
+            "index_type": "HNSW",
             "metric_type": "COSINE",
-            "params": {"nlist": 128},
+            "params": {
+                "M": 16,              # Number of edges per node
+                "efConstruction": 200  # Size of the dynamic candidate list
+            }
         }
         print("Creating index...")
         self.collection.create_index(field_name="embedding", index_params=index_params)
         print("Index created successfully.")
 
-txt_dir = './processed_vn_legal_document'
+# Initialize and run indexing
+json_file = '/Users/Kien/Documents/RAG/output/vn_legal_framework.json'
 indexer = VectorDBIndexer(collection_name='rag_chatbox_db')
-indexer.index_docs(txt_dir=txt_dir)
+indexer.process_json_data(json_file)
 indexer.create_index()
-
-

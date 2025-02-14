@@ -1,22 +1,50 @@
-import logging
+from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
 
-from langchain.retrievers import RePhraseQueryRetriever
-from langchain_chroma import Chroma
-from langchain_community.document_loaders import WebBaseLoader
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-logging.basicConfig()
-logging.getLogger("langchain.retrievers.re_phraser").setLevel(logging.INFO)
+# Use a more Mac-compatible model configuration
+model_name = "kienhoang123/QR-llama3.2"
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    torch_dtype=torch.float32,
+    device_map="mps" if torch.backends.mps.is_available() else "cpu",
+    use_safetensors=True
+)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-loader = WebBaseLoader("https://lilianweng.github.io/posts/2023-06-23-agent/")
-data = loader.load()
+def generate_rewritten_queries(base_query, model, tokenizer, max_new_tokens=100):
+    device = "mps" if torch.backends.mps.is_available() else "cpu"
+    model = model.to(device)
+    
+    input_text = f"""
+    ### Instruction:
+    Rewrite the given query into three different variations.
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
-all_splits = text_splitter.split_documents(data)
+    ### Input Query:
+    {base_query}
 
-vectorstore = Chroma.from_documents(documents=all_splits, embedding=OpenAIEmbeddings())
+    ### Rewritten Queries:
+    """
 
-DEFAULT_TEMPLATE = """You are an assistant tasked with taking a natural language \
-query from a user and converting it into a query for a vectorstore. \
-In this process, you strip out information that is not relevant for \
-the retrieval task. Here is the user query: {question}"""
+    input_ids = tokenizer(input_text, return_tensors="pt").input_ids.to(device)
+    output_ids = model.generate(
+        input_ids, 
+        max_new_tokens=max_new_tokens, 
+        do_sample=True,
+        temperature=0.1,
+        top_p=0.95,
+        repetition_penalty=1.2
+    )
+
+    generated_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+    rewritten_part = generated_text.split("### Rewritten Queries:")[1].strip()
+    
+    # Extract only numbered queries and clean them
+    queries = []
+    for line in rewritten_part.split('\n'):
+        line = line.strip()
+        if line and line[0].isdigit() and '.' in line:
+            query = line.split('.', 1)[1].strip()
+            queries.append(query)
+    
+    # Take only the first 3 queries
+    return queries[:3]
