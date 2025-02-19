@@ -38,13 +38,12 @@ def generate_rewritten_queries(base_query, model, tokenizer, max_new_tokens=100)
     generated_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)
     rewritten_part = generated_text.split("### Rewritten Queries:")[1].strip()
     
-    # Extract only numbered queries and clean them
-    queries = []
-    for line in rewritten_part.split('\n'):
-        line = line.strip()
-        if line and line[0].isdigit() and '.' in line:
-            query = line.split('.', 1)[1].strip()
-            queries.append(query)
-    
-    # Take only the first 3 queries
-    return queries[:3]
+    # Extract queries into a list
+    queries = [q.strip() for q in rewritten_part.split('\n') if q.strip() and not q.strip().startswith('###')]
+    return queries
+
+# Example usage
+# base_query = "Hình phạt cho tội trộm cắp tài sản là gì?"
+# rewritten_queries = generate_rewritten_queries(base_query, model, tokenizer)
+# for i, query in enumerate(rewritten_queries, 1):
+#     print(f"{query}")

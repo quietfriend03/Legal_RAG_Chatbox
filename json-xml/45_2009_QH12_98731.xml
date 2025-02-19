@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CIVIL-CODE>
+    <INFORMATION>
+        <NAME>LUẬT THUẾ TÀI NGUYÊN</NAME>
+        <YEAR>2025</YEAR>
+        <LINK>https://thuvienphapluat.vn</LINK>
+    </INFORMATION>
+    <CHAPTER id="1.">
+        <TITLE>NHỮNG QUY ĐỊNH CHUNG</TITLE>
+        <ARTICLE id="1">
+            <TITLE>Phạm vi điều chỉnh</TITLE>
+            <CONTENT>Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê
+                khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="2">
+            <TITLE>Đối tượng chịu thuế</TITLE>
+            <CONTENT>1. Khoáng sản kim loại.
+                2. Khoáng sản không kim loại.
+                3. Dầu thô.
+                4. Khí thiên nhiên, khí than.
+                5. Sản phẩm của rừng tự nhiên, trừ động vật.
+                6. Hải sản tự nhiên, bao gồm động vật và thực vật biển.
+                7. Nước thiên nhiên, bao gồm nước mặt và nước dưới đất.
+                8. Yến sào thiên nhiên.
+                9. Tài nguyên khác do Ủy ban thường vụ Quốc hội quy định.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="3">
+            <TITLE>Người nộp thuế</TITLE>
+            <CONTENT>1. Người nộp thuế tài nguyên là tổ chức, cá nhân khai thác tài nguyên thuộc đối
+                tượng chịu thuế tài nguyên.
+                2. Người nộp thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau:
+                a) Doanh nghiệp khai thác tài nguyên được thành lập trên cơ sở liên doanh thì doanh
+                nghiệp liên doanh là người nộp thuế;
+                b) Bên Việt Nam và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh khai thác tài
+                nguyên thì trách nhiệm nộp thuế của các bên phải được xác định cụ thể trong hợp đồng
+                hợp tác kinh doanh;
+                c) Tổ chức, cá nhân khai thác tài nguyên nhỏ, lẻ bán cho tổ chức, cá nhân làm đầu
+                mối thu mua và tổ chức, cá nhân làm đầu mối thu mua cam kết chấp thuận bằng văn bản
+                về việc kê khai, nộp thuế thay cho tổ chức, cá nhân khai thác thì tổ chức, cá nhân
+                làm đầu mối thu mua là người nộp thuế.</CONTENT>
+        </ARTICLE>
+    </CHAPTER>
+    <CHAPTER id="2.">
+        <TITLE>CĂN CỨ TÍNH THUẾ</TITLE>
+        <ARTICLE id="4">
+            <TITLE>Căn cứ tính thuế</TITLE>
+            <CONTENT>Căn cứ tính thuế tài nguyên là sản lượng tài nguyên tính thuế, giá tính thuế và
+                thuế suất.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="5">
+            <TITLE>Sản lượng tài nguyên tính thuế</TITLE>
+            <CONTENT>1. Đối với tài nguyên khai thác xác định được số lượng, trọng lượng hoặc khối
+                lượng thì sản lượng tài nguyên tính thuế là số lượng, trọng lượng hoặc khối lượng
+                của tài nguyên thực tế khai thác trong kỳ tính thuế.
+                2. Đối với tài nguyên khai thác chưa xác định được số lượng, trọng lượng hoặc khối
+                lượng thực tế khai thác do chứa nhiều chất, tạp chất khác nhau thì sản lượng tài
+                nguyên tính thuế được xác định theo số lượng, trọng lượng hoặc khối lượng của từng
+                chất thu được sau khi sàng tuyển, phân loại.
+                3. Đối với tài nguyên khai thác không bán mà đưa vào sản xuất sản phẩm khác nếu
+                không trực tiếp xác định được số lượng, trọng lượng hoặc khối lượng thực tế khai
+                thác thì sản lượng tài nguyên tính thuế được xác định căn cứ vào sản lượng sản phẩm
+                sản xuất trong kỳ tính thuế và định mức sử dụng tài nguyên tính trên một đơn vị sản
+                phẩm.
+                4. Đối với nước thiên nhiên dùng cho sản xuất thủy điện thì sản lượng tài nguyên
+                tính thuế là sản lượng điện của cơ sở sản xuất thủy điện bán cho bên mua điện theo
+                hợp đồng mua bán điện hoặc sản lượng điện giao nhận trong trường hợp không có hợp
+                đồng mua bán điện được xác định theo hệ thống đo đếm đạt tiêu chuẩn đo lường chất
+                lượng Việt Nam, có xác nhận của bên mua, bên bán hoặc bên giao, bên nhận.
+                5. Đối với nước khoáng thiên nhiên, nước nóng thiên nhiên, nước thiên nhiên dùng cho
+                mục đích công nghiệp thì sản lượng tài nguyên tính thuế được xác định bằng mét khối
+                (m³) hoặc lít (l) theo hệ thống đo đếm đạt tiêu chuẩn đo lường chất lượng Việt Nam.
+                6. Đối với tài nguyên được khai thác thủ công, phân tán hoặc khai thác lưu động,
+                không thường xuyên, sản lượng tài nguyên khai thác dự kiến trong một năm có giá trị
+                dưới 200.000.000 đồng thì thực hiện khoán sản lượng tài nguyên khai thác theo mùa vụ
+                hoặc định kỳ để tính thuế. Cơ quan thuế phối hợp với cơ quan có liên quan ở địa
+                phương xác định sản lượng tài nguyên khai thác được khoán để tính thuế.
+                Chính phủ quy định chi tiết Điều này.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="6">
+            <TITLE>Giá tính thuế</TITLE>
+            <CONTENT>1. Giá tính thuế tài nguyên là giá bán đơn vị sản phẩm tài nguyên của tổ chức,
+                cá nhân khai thác chưa bao gồm thuế giá trị gia tăng.
+                2. Trường hợp tài nguyên chưa xác định được giá bán thì giá tính thuế tài nguyên
+                được xác định theo một trong những căn cứ sau:
+                a) Giá bán thực tế trên thị trường khu vực của đơn vị sản phẩm tài nguyên cùng loại
+                nhưng không thấp hơn giá tính thuế do Ủy ban nhân dân tỉnh, thành phố trực thuộc
+                Trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) quy định;
+                b) Trường hợp tài nguyên khai thác có chứa nhiều chất khác nhau thì giá tính thuế
+                xác định theo giá bán đơn vị của từng chất và hàm lượng của từng chất trong tài
+                nguyên khai thác nhưng không thấp hơn giá tính thuế do Ủy ban nhân dân cấp tỉnh quy
+                định.
+                3. Giá tính thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau:
+                a) Đối với nước thiên nhiên dùng cho sản xuất thủy điện là giá bán điện thương phẩm
+                bình quân;
+                b) Đối với gỗ là giá bán tại bãi giao; trường hợp chưa xác định được giá bán tại bãi
+                giao thì giá tính thuế được xác định căn cứ vào giá tính thuế do Ủy ban nhân dân cấp
+                tỉnh quy định;
+                c) Đối với tài nguyên khai thác không tiêu thụ trong nước mà xuất khẩu là giá xuất
+                khẩu;
+                d) Đối với dầu thô, khí thiên nhiên, khí than là giá bán tại điểm giao nhận. Điểm
+                giao nhận là điểm được thỏa thuận trong hợp đồng dầu khí mà ở đó dầu thô, khí thiên
+                nhiên, khí than được chuyển giao quyền sở hữu cho các bên tham gia hợp đồng dầu khí.
+                4. Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế đối với tài nguyên chưa
+                xác định được giá bán đơn vị sản phẩm tài nguyên, trừ dầu thô, khí thiên nhiên, khí
+                than và nước thiên nhiên dùng cho sản xuất thủy điện.
+                Chính phủ quy định chi tiết Điều này.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="7">
+            <TITLE>Thuế suất</TITLE>
+            <CONTENT>1. Biểu khung thuế suất thuế tài nguyên được quy định như sau:
+                2. Thuế suất cụ thể đối với dầu thô, khí thiên nhiên, khí than được xác định lũy
+                tiến từng phần theo sản lượng dầu thô, khí thiên nhiên, khí than khai thác bình quân
+                mỗi ngày.
+                3. Căn cứ vào quy định tại khoản 1 và khoản 2 Điều này, Ủy ban thường vụ Quốc hội
+                quy định mức thuế suất cụ thể đối với từng loại tài nguyên trong từng thời kỳ bảo
+                đảm các nguyên tắc sau:
+                a) Phù hợp với danh mục nhóm, loại tài nguyên và trong phạm vi khung thuế suất do
+                Quốc hội quy định;
+                b) Góp phần quản lý nhà nước đối với tài nguyên; bảo vệ, khai thác, sử dụng hợp lý,
+                tiết kiệm và hiệu quả nguồn tài nguyên;
+                c) Góp phần bảo đảm nguồn thu ngân sách nhà nước và bình ổn thị trường.</CONTENT>
+        </ARTICLE>
+    </CHAPTER>
+    <CHAPTER id="3.">
+        <TITLE>KÊ KHAI, NỘP THUẾ; MIỄN, GIẢM THUẾ</TITLE>
+        <ARTICLE id="8">
+            <TITLE>Kê khai, nộp thuế</TITLE>
+            <CONTENT>Người nộp thuế tài nguyên thực hiện đăng ký, kê khai, tính và nộp thuế theo quy
+                định của pháp luật về quản lý thuế.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="9">
+            <TITLE>Miễn, giảm thuế</TITLE>
+            <CONTENT>1. Người nộp thuế tài nguyên gặp thiên tai, hỏa hoạn, tai nạn bất ngờ gây tổn
+                thất đến tài nguyên đã kê khai, nộp thuế thì được xét miễn, giảm thuế phải nộp cho
+                số tài nguyên bị tổn thất; trường hợp đã nộp thuế thì được hoàn trả số thuế đã nộp
+                hoặc trừ vào số thuế tài nguyên phải nộp của kỳ sau.
+                2. Miễn thuế đối với hải sản tự nhiên.
+                3. Miễn thuế đối với cành, ngọn, củi, tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô
+                do cá nhân được phép khai thác phục vụ sinh hoạt.
+                4. Miễn thuế đối với nước thiên nhiên dùng cho sản xuất thủy điện của hộ gia đình,
+                cá nhân tự sản xuất phục vụ sinh hoạt.
+                5. Miễn thuế đối với nước thiên nhiên dùng cho nông nghiệp, lâm nghiệp, ngư nghiệp,
+                diêm nghiệp; nước thiên nhiên do hộ gia đình, cá nhân khai thác phục vụ sinh hoạt.
+                6. Miễn thuế đối với đất khai thác và sử dụng tại chỗ trên diện tích đất được giao,
+                được thuê; đất khai thác để san lấp, xây dựng công trình an ninh, quân sự, đê điều.
+                7. Trường hợp khác được miễn, giảm thuế do Ủy ban thường vụ Quốc hội quy định.</CONTENT>
+        </ARTICLE>
+    </CHAPTER>
+    <CHAPTER id="4.">
+        <TITLE>ĐIỀU KHOẢN THI HÀNH</TITLE>
+        <ARTICLE id="10">
+            <TITLE>Hiệu lực thi hành</TITLE>
+            <CONTENT>1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2010.
+                2. Các văn bản quy phạm pháp luật sau đây hết hiệu lực thi hành kể từ ngày Luật này
+                có hiệu lực:
+                a) Pháp lệnh thuế tài nguyên số 05/1998/PL-UBTVQH10;
+                b) Pháp lệnh sửa đổi, bổ sung Điều 6 Pháp lệnh thuế tài nguyên số
+                07/2008/PL-UBTVQH12.
+                3. Đối với dự án đầu tư hoặc hợp đồng dầu khí đã được ký kết trước ngày 01 tháng 7
+                năm 2010 mà trong Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí có
+                quy định về thuế tài nguyên thì thực hiện theo quy định tại Giấy phép đầu tư, Giấy
+                chứng nhận đầu tư hoặc hợp đồng dầu khí đã ký kết. Trường hợp ưu đãi về thuế tài
+                nguyên quy định tại Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí
+                thấp hơn ưu đãi về thuế tài nguyên quy định tại Luật này thì áp dụng ưu đãi về thuế
+                theo quy định của Luật này cho thời gian còn lại.</CONTENT>
+        </ARTICLE>
+        <ARTICLE id="11">
+            <TITLE>Quy định chi tiết và hướng dẫn thi hành</TITLE>
+            <CONTENT>Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong
+                Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản
+                lý nhà nước.
+                Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp
+                thứ 6 thông qua ngày 25 tháng 11 năm 2009.</CONTENT>
+        </ARTICLE>
+    </CHAPTER>
+</CIVIL-CODE>

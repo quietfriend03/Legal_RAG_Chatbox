@@ -6,7 +6,8 @@ from query_rewrtiting import generate_rewritten_queries, model as qr_model, toke
 import requests
 
 class RAG:
-    def __init__(self, collection_name='rag_chatbox_db', vector_model_name='all-MiniLM-L6-v2'):
+    def __init__(self, collection_name='rag_chatbox_db', vector_model_name='all-MiniLM-L6-v2',
+                 use_reranking=True, use_query_rewriting=True, top_k=5):
         # Load the collection and vector model
         connections.connect("default", host="localhost", port="19530")
         self.collection_name = collection_name
@@ -19,51 +20,28 @@ class RAG:
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.generator = pipeline('text-generation', model=self.model, tokenizer=self.tokenizer)
         self.context = []
+        self.use_reranking = use_reranking
+        self.use_query_rewriting = use_query_rewriting
+        self.top_k = top_k
 
-    def retrive_relevent_docs(self, query, top_k=10):
-        # Generate query variations
-        rewritten_queries = generate_rewritten_queries(query, qr_model, qr_tokenizer)
-        all_results = []
-        
-        # Get results for original query
+    def retrieve_relevant_docs(self, query, top_k=10):
         query_embedding = self.vector_model.encode([query])[0].tolist()
         self.collection.load()
-        original_results = self.collection.search(
+        results = self.collection.search(
             data=[query_embedding],
             anns_field="embedding",
             param={
                 "metric_type": "COSINE",
                 "params": {
-                    "ef": 100,
-                    "M": 16
+                    "ef": 100,    # Search scope size
+                    "M": 16       # Number of neighbors for HNSW
                 }
             },
             limit=top_k,
             expr=None,
             output_fields=["metadata"]
         )
-        all_results.extend(original_results[0])
-        
-        # Get results for each rewritten query
-        for rewritten_query in rewritten_queries:
-            query_embedding = self.vector_model.encode([rewritten_query])[0].tolist()
-            results = self.collection.search(
-                data=[query_embedding],
-                anns_field="embedding",
-                param={
-                    "metric_type": "COSINE",
-                    "params": {
-                        "ef": 100,
-                        "M": 16
-                    }
-                },
-                limit=top_k,
-                expr=None,
-                output_fields=["metadata"]
-            )
-            all_results.extend(results[0])
-        
-        return [all_results]  # Maintain the same return format
+        return results
 
     def process_search_results(self, results):
         processed_texts = []
@@ -77,12 +55,36 @@ class RAG:
         return processed_texts
 
     def response_generate(self, query):
-        relevent_docs = self.retrive_relevent_docs(query)
-        reranked_results = rerank_documents(query, relevent_docs[0], top_k=2)
+        # Update the method call to match the new name
+        all_results = []
+        queries = [query]
+        if self.use_query_rewriting:
+            rewritten_queries = generate_rewritten_queries(query, qr_model, qr_tokenizer)
+            queries.extend(rewritten_queries)
+
+        for q in queries:
+            relevant_docs = self.retrieve_relevant_docs(q)  # Fixed method name here
+            
+            if self.use_reranking:
+                reranked_results = rerank_documents(q, relevant_docs[0], top_k=self.top_k)
+                all_results.extend(reranked_results)
+            else:
+                processed_docs = self.process_search_results(relevant_docs[0])
+                all_results.extend([(doc, "1.0000") for doc in processed_docs[:self.top_k]])
+        
+        # Deduplicate and sort results
+        seen_docs = set()
+        unique_results = []
+        for doc, score in all_results:
+            if doc not in seen_docs:
+                seen_docs.add(doc)
+                unique_results.append((doc, score))
+        
+        unique_results.sort(key=lambda x: float(x[1]), reverse=True)
         
         # Format context with documents and scores
         contexts = []
-        for doc, score in reranked_results:
+        for doc, score in unique_results[:3]:
             contexts.append(f"Document (Relevance Score: {score}):\n{doc}")
         context = "\n\n=== Next Document ===\n\n".join(contexts)
         
@@ -93,7 +95,8 @@ class RAG:
 
         Câu hỏi: {query}
 
-        Trả lời dựa trên các điều luật trên:"""
+        Trả lời dựa trên các điều luật trên:
+        """
         # generated_text = self.generator(
         #     prompt,
         #     max_new_tokens=200,
@@ -116,5 +119,15 @@ class RAG:
         ).json()
         self.context = response['context']
         answer = response['response']
-        
         return answer
+# Example usage with different configurations
+if __name__ == "__main__":
+    # Use basic RAG with top_k=1
+    rag_basic = RAG(use_reranking=False, use_query_rewriting=False, top_k=1)
+    
+    # Use enhanced RAG with top_k=5
+    rag_enhanced = RAG(use_reranking=True, use_query_rewriting=True, top_k=5)
+
+    response = rag_enhanced.response_generate("Luật an ninh mạng là gì")
+    # response = rag_enhanced.response_generate("Hình phạt cho tội trộm cắp tài sản là gì?")
+    print(response)
