@@ -2,10 +2,10 @@ import os
 import json
 
 # Thư mục chứa các file JSON đầu vào
-input_folder = "../data"  # Đổi thành thư mục chứa JSON
+input_folder = "../Dữ liệu luật pháp VN/JSON"  # Đổi thành thư mục chứa JSON
 
 # Tên file JSON đầu ra
-output_json_path = "../output/vn_legal_framework.json"
+output_json_path = "../Dữ liệu huấn luyện/vn_legal_framework.json"
 
 # Đảm bảo rằng thư mục đầu ra tồn tại
 output_dir = os.path.dirname(output_json_path)
