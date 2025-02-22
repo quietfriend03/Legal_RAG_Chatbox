@@ -1,7 +1,9 @@
 # Xây dựng ứng dụng hỏi-đáp luật pháp dựa trên RAG
 ## Giới thiệu đề tài
 Mô hình hỏi-đáp luật dựa trên RAG là một trong những mô hình để có giúp người dùng hỏi đáp những vấn đề liên quan đến pháp luật Việt Nam, giúp cải thiện khả năng hiểu biết của người dùng về luật pháp của Việt Nam. 
-
+## Yêu cầu cho dự án
+- Python 3.12.+
+- Docker Desktop
 ## Cài đặt môi trường
 ### 1. Cài đặt các thư viện cần thiết
 Để có thể cài đặt thư viện cần thiết ta sẽ cần khởi tạo env cho môi thư mục code của chúng ta bằng câu lệnh sau:
