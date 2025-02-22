@@ -25,7 +25,12 @@ def json_to_xml(json_file, output_folder):
     # Thông tin luật
     info = ET.SubElement(root, "INFORMATION")
     ET.SubElement(info, "SOURCE").text = json_filename  # Ghi tên file JSON gốc
-    ET.SubElement(info, "YEAR").text = "2025"
+
+    # Trích xuất năm từ tên file (ví dụ: 104_2016_QH13_280116.json → 2016)
+    filename_parts = json_filename.split("_")
+    year = filename_parts[1] if len(filename_parts) > 1 and filename_parts[1].isdigit() else "Unknown"
+    ET.SubElement(info, "YEAR").text = year  # Ghi số năm vào XML
+
     ET.SubElement(info, "LINK").text = "https://thuvienphapluat.vn"
     
     # Nhóm các bài viết theo chương

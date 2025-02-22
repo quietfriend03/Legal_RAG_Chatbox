@@ -5,11 +5,10 @@ Bảo vệ an ninh mạng bao gồm những hoạt động gì?,Những biện p
 Không gian mạng được hiểu như thế nào?,Không gian mạng bao gồm những gì?,Làm sao để mô tả một mạng lưới kết nối thông tin toàn cầu?,Những yếu tố nào cấu thành không gian mạng?,2,1,"Không gian mạng là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin, bao gồm mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã hội không bị giới hạn bởi không gian và thời gian."
 Không gian mạng quốc gia khác gì không gian mạng?,Ai chịu trách nhiệm quản lý không gian mạng của một quốc gia?,Không gian mạng thuộc phạm vi quốc gia được tổ chức ra sao?,Chính phủ có vai trò gì trong việc kiểm soát không gian mạng?,2,1,"Không gian mạng quốc gia là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát."
 Cơ sở hạ tầng không gian mạng quốc gia gồm những gì?,Những yếu tố nào đảm bảo hoạt động của mạng quốc gia?,Hệ thống hạ tầng để duy trì không gian mạng quốc gia bao gồm những thành phần nào?,Để duy trì không gian mạng quốc gia cần có những cơ sở gì?,2,1,"Cơ sở hạ tầng không gian mạng quốc gia gồm:
-
-Hệ thống truyền dẫn: Truyền dẫn quốc gia, kết nối quốc tế, hệ thống vệ tinh.
-Hệ thống dịch vụ lõi: DNS, PKI/CA, hệ thống phân luồng, truy cập Internet.
-Dịch vụ, ứng dụng CNTT: Chính phủ điện tử, thương mại điện tử, mạng xã hội, blog.
-Hạ tầng CNTT khác: Đô thị thông minh, Internet vạn vật, điện toán đám mây, trí tuệ nhân tạo."
+- Hệ thống truyền dẫn: Truyền dẫn quốc gia, kết nối quốc tế, hệ thống vệ tinh.
+- Hệ thống dịch vụ lõi: DNS, PKI/CA, hệ thống phân luồng, truy cập Internet.
+- Dịch vụ, ứng dụng CNTT: Chính phủ điện tử, thương mại điện tử, mạng xã hội, blog.
+- Hạ tầng CNTT khác: Đô thị thông minh, Internet vạn vật, điện toán đám mây, trí tuệ nhân tạo."
 Cổng kết nối mạng quốc tế đóng vai trò gì?,Làm sao để mạng trong nước kết nối với mạng quốc tế?,Điểm chuyển giao dữ liệu giữa các quốc gia gọi là gì?,Hoạt động trao đổi tín hiệu mạng giữa Việt Nam và nước ngoài diễn ra ở đâu?,2,1,"Cổng kết nối mạng quốc tế là nơi diễn ra hoạt động chuyển nhận tín hiệu mạng giữa Việt Nam và các quốc gia, vùng lãnh thổ khác."
 Thế nào là tội phạm mạng?,Hành vi nào bị coi là vi phạm nghiêm trọng trên không gian mạng?,Sử dụng mạng để phạm pháp được gọi là gì?,Tội phạm trên Internet bao gồm những hành vi gì?,2,1,"Tội phạm mạng là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi vi phạm pháp luật hình sự."
 Khi nào một hành động bị coi là tấn công mạng?,Hành vi phá hoại hệ thống mạng được gọi là gì?,Làm thế nào để phân biệt tấn công mạng với các hành vi khác?,Hành vi nào gây gián đoạn hoạt động của hệ thống thông tin?,2,1,"Tấn công mạng là hành vi sử dụng không gian mạng để phá hoại, gây gián đoạn hoạt động của mạng viễn thông, Internet, mạng máy tính, hệ thống thông tin, hoặc cơ sở dữ liệu."
@@ -45,35 +44,30 @@ Ai là đối tượng được giáo dục kiến thức pháp luật về an t
 Lực lượng Cảnh sát giao thông có nhiệm vụ gì trong việc giáo dục kỹ năng lái xe cho học sinh?,Vai trò của Cảnh sát giao thông trong việc hướng dẫn học sinh lái xe an toàn là gì?,Cảnh sát giao thông tham gia giáo dục giao thông cho học sinh như thế nào?,Ai chịu trách nhiệm tổ chức hướng dẫn lái xe an toàn cho học sinh?,6,1,"Lực lượng Cảnh sát giao thông chủ trì, phối hợp với các cơ sở giáo dục trung học phổ thông và giáo dục nghề nghiệp để hướng dẫn kỹ năng lái xe gắn máy an toàn cho học sinh."
 Ai chịu trách nhiệm xây dựng chương trình giảng dạy kiến thức an toàn giao thông trong trường học?,Cơ quan nào xây dựng và lồng ghép kiến thức giao thông vào chương trình học?,Ai đảm nhận việc tích hợp giáo dục giao thông vào chương trình giảng dạy?,Đơn vị nào có trách nhiệm phát triển chương trình giảng dạy về an toàn giao thông?,6,1,"Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với Bộ Công an và các cơ quan liên quan để xây dựng, lồng ghép kiến thức giao thông vào chương trình giảng dạy phù hợp với từng cấp học và ngành học."
 "Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm những thông tin gì?",Những loại dữ liệu nào được thu thập trong hệ thống giao thông đường bộ?,Thông tin nào được lưu trữ trong cơ sở dữ liệu an toàn giao thông?,Cơ sở dữ liệu giao thông đường bộ chứa những nội dung gì?,7,1,"Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ gồm:
-
-Dữ liệu đăng ký, quản lý và đăng kiểm xe cơ giới, xe máy chuyên dùng.
-Dữ liệu đào tạo, sát hạch, cấp giấy phép lái xe và chứng chỉ bồi dưỡng kiến thức pháp luật.
-Thông tin về người điều khiển phương tiện, bảo hiểm xe, xử lý vi phạm hành chính.
-Dữ liệu về tai nạn giao thông, hành trình phương tiện, hình ảnh người lái xe.
-Dữ liệu quản lý thời gian lái xe và các dữ liệu khác liên quan."
+- Dữ liệu đăng ký, quản lý và đăng kiểm xe cơ giới, xe máy chuyên dùng.
+- Dữ liệu đào tạo, sát hạch, cấp giấy phép lái xe và chứng chỉ bồi dưỡng kiến thức pháp luật.
+- Thông tin về người điều khiển phương tiện, bảo hiểm xe, xử lý vi phạm hành chính.
+- Dữ liệu về tai nạn giao thông, hành trình phương tiện, hình ảnh người lái xe.
+- Dữ liệu quản lý thời gian lái xe và các dữ liệu khác liên quan."
 Cơ sở dữ liệu giao thông đường bộ được kết nối với những hệ thống nào?,Hệ thống dữ liệu giao thông được chia sẻ với những cơ sở dữ liệu nào?,Cơ sở dữ liệu giao thông đường bộ liên kết với hệ thống thông tin nào khác?,Những hệ thống dữ liệu nào được kết nối với cơ sở dữ liệu an toàn giao thông?,7,1,"Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ được kết nối, chia sẻ với:
-
-Cơ sở dữ liệu quốc gia về dân cư.
-Cơ sở dữ liệu đường bộ.
-Các cơ sở dữ liệu liên quan khác."
+- Cơ sở dữ liệu quốc gia về dân cư.
+- Cơ sở dữ liệu đường bộ.
+- Các cơ sở dữ liệu liên quan khác."
 Ai quy định chi tiết về việc thu thập và quản lý dữ liệu giao thông đường bộ?,Cơ quan nào chịu trách nhiệm quy định thu thập dữ liệu giao thông?,Ai quyết định quy trình quản lý thông tin an toàn giao thông?,Việc khai thác dữ liệu giao thông đường bộ thuộc thẩm quyền của ai?,7,1,"Chính phủ quy định chi tiết về nội dung, thu thập, quản lý và khai thác thông tin trong cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ."
-"Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ cần tuân thủ những nguyên tắc nào?",Nguyên tắc nào được áp dụng khi hợp tác quốc tế về an toàn giao thông?,"Khi hợp tác quốc tế trong lĩnh vực giao thông đường bộ, cần tuân theo những quy định gì?",Hợp tác quốc tế về giao thông đường bộ phải đảm bảo các yếu tố nào?,8,1,"Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ phải:
-
-Tuân thủ pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.
-Tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế.
-Bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ, bảo vệ lợi ích quốc gia và quyền lợi hợp pháp của tổ chức, cá nhân."
-"Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm những gì?",Hợp tác quốc tế về an toàn giao thông đường bộ tập trung vào những lĩnh vực nào?,Những nội dung nào được ưu tiên trong hợp tác quốc tế về giao thông?,Quốc tế hỗ trợ Việt Nam trong an toàn giao thông đường bộ qua những hình thức nào?,8,1,"Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ gồm:
-
-Ký kết điều ước, thỏa thuận quốc tế liên quan.
-Trao đổi thông tin, chuyển giao công nghệ.
-Đào tạo, tập huấn cho lực lượng đảm bảo trật tự giao thông.
-Tăng cường điều kiện vật chất phục vụ an toàn giao thông.
-Hợp tác giải quyết tai nạn giao thông.
-Thực hiện các nội dung hợp tác khác theo quy định pháp luật và điều ước quốc tế."
+"Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ cần tuân thủ những nguyên tắc nào?",Nguyên tắc nào được áp dụng khi hợp tác quốc tế về an toàn giao thông?,"Khi hợp tác quốc tế trong lĩnh vực giao thông đường bộ, cần tuân theo những quy định gì?",Hợp tác quốc tế về giao thông đường bộ phải đảm bảo các yếu tố nào?,8,1,"Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ phải: 
+- Tuân thủ pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.
+- Tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế.
+- Bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ, bảo vệ lợi ích quốc gia và quyền lợi hợp pháp của tổ chức, cá nhân."
+"Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm những gì?",Hợp tác quốc tế về an toàn giao thông đường bộ tập trung vào những lĩnh vực nào?,Những nội dung nào được ưu tiên trong hợp tác quốc tế về giao thông?,Quốc tế hỗ trợ Việt Nam trong an toàn giao thông đường bộ qua những hình thức nào?,8,1,"Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ gồm: 
+- Ký kết điều ước, thỏa thuận quốc tế liên quan.
+- Trao đổi thông tin, chuyển giao công nghệ.
+- Đào tạo, tập huấn cho lực lượng đảm bảo trật tự giao thông.
+- Tăng cường điều kiện vật chất phục vụ an toàn giao thông.
+- Hợp tác giải quyết tai nạn giao thông.
+- Thực hiện các nội dung hợp tác khác theo quy định pháp luật và điều ước quốc tế."
 Cơ quan nào chịu trách nhiệm chính trong hợp tác quốc tế về giao thông đường bộ?,Ai là cơ quan đầu mối hợp tác quốc tế về an toàn giao thông?,Đơn vị nào đại diện Việt Nam đàm phán các thỏa thuận quốc tế về giao thông?,"Cơ quan nào phối hợp với các Bộ, ngành trong hợp tác quốc tế về giao thông?",8,1,"Bộ Công an là cơ quan chủ trì, phối hợp với các Bộ, ngành liên quan để:
-
-Đàm phán, ký kết hoặc đề xuất ký kết điều ước, thỏa thuận quốc tế.
-Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ."
+- Đàm phán, ký kết hoặc đề xuất ký kết điều ước, thỏa thuận quốc tế.
+- Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ."
 Người điều khiển phương tiện giao thông cần có những giấy tờ gì khi tham gia giao thông?,"Khi lái xe trên đường, người điều khiển cần mang theo giấy tờ nào?",Giấy tờ bắt buộc đối với người lái xe tham gia giao thông là gì?,Điều kiện về giấy tờ khi điều khiển phương tiện giao thông gồm những gì?,9,1,Người điều khiển phương tiện giao thông phải có giấy phép lái xe hoặc chứng chỉ hợp lệ. Trường hợp điều khiển xe máy chuyên dùng cũng cần giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức giao thông.
 Người tham gia giao thông có được phép điều khiển phương tiện khi đã uống rượu bia không?,Việc lái xe sau khi uống rượu bia có được cho phép không?,Người lái xe có thể điều khiển phương tiện nếu trong máu có cồn không?,Có được phép tham gia giao thông khi sử dụng đồ uống có cồn không?,9,1,Không. Người điều khiển phương tiện không được phép lái xe khi trong máu hoặc hơi thở có nồng độ cồn.
 Có bị cấm điều khiển phương tiện khi trong cơ thể có chất kích thích không?,Người lái xe sử dụng ma túy có bị cấm tham gia giao thông không?,Lái xe khi có chất kích thích trong cơ thể bị xử lý thế nào?,Việc sử dụng chất cấm rồi lái xe có hợp pháp không?,9,1,Bị cấm. Người điều khiển phương tiện không được phép tham gia giao thông khi trong cơ thể có chất ma túy hoặc chất kích thích bị cấm.
@@ -89,30 +83,26 @@ Người lái xe và hành khách trên ô tô cần làm gì để đảm bảo
 "Khi chở trẻ em dưới 10 tuổi trên ô tô, người lái xe cần tuân thủ những quy định nào?",Có quy định gì khi chở trẻ em dưới 10 tuổi trên xe ô tô không?,Người lái xe phải làm gì để đảm bảo an toàn cho trẻ em khi di chuyển bằng ô tô?,"Khi chở trẻ nhỏ trên ô tô, vị trí ngồi của trẻ em có bị hạn chế không?",10,2,"Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên ô tô, không được cho trẻ ngồi cùng hàng ghế với người lái xe (trừ trường hợp xe chỉ có một hàng ghế). Người lái xe phải sử dụng và hướng dẫn trẻ em sử dụng thiết bị an toàn phù hợp."
 Báo hiệu đường bộ bao gồm những loại nào?,Có những loại báo hiệu nào trong giao thông đường bộ?,"Khi tham gia giao thông, người đi đường cần chú ý đến những loại báo hiệu nào?",Báo hiệu giao thông trên đường bộ được chia thành mấy loại?,11,2,"Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông, đèn tín hiệu giao thông, biển báo hiệu đường bộ, vạch kẻ đường và các dấu hiệu khác trên mặt đường, cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H, thiết bị âm thanh báo hiệu đường bộ."
 Người tham gia giao thông phải tuân thủ thứ tự ưu tiên của các báo hiệu như thế nào?,"Khi gặp nhiều loại báo hiệu cùng lúc, người tham gia giao thông phải chấp hành theo thứ tự nào?","Nếu biển báo và đèn tín hiệu có mâu thuẫn, người đi đường phải tuân theo báo hiệu nào trước?",Thứ tự ưu tiên khi chấp hành báo hiệu giao thông là gì?,11,2,"Người tham gia giao thông phải chấp hành báo hiệu theo thứ tự ưu tiên từ trên xuống dưới như sau:
-
-Hiệu lệnh của người điều khiển giao thông
-Tín hiệu đèn giao thông
-Biển báo hiệu đường bộ
-Vạch kẻ đường và các dấu hiệu khác trên mặt đường
-Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H
-Thiết bị âm thanh báo hiệu đường bộ"
+- Hiệu lệnh của người điều khiển giao thông
+- Tín hiệu đèn giao thông
+- Biển báo hiệu đường bộ
+- Vạch kẻ đường và các dấu hiệu khác trên mặt đường
+- Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H
+- Thiết bị âm thanh báo hiệu đường bộ"
 Hiệu lệnh của người điều khiển giao thông được quy định như thế nào?,Người điều khiển giao thông ra hiệu lệnh như thế nào?,"Khi thấy cảnh sát giao thông ra hiệu lệnh, người tham gia giao thông cần hiểu ra sao?",Hiệu lệnh của người điều khiển giao thông có ý nghĩa gì?,11,2,"Hiệu lệnh của người điều khiển giao thông được quy định như sau:
-
-Tay bên phải giơ thẳng đứng: Tất cả các hướng phải dừng lại.
-Hai tay hoặc một tay dang ngang: Người tham gia giao thông ở phía trước và phía sau phải dừng, phía bên phải và bên trái được đi.
-Tay bên phải giơ về phía trước: Người ở phía sau và bên phải phải dừng, người phía trước được rẽ phải, người phía bên trái được đi mọi hướng; người đi bộ phải đi sau lưng người điều khiển giao thông."
+- Tay bên phải giơ thẳng đứng: Tất cả các hướng phải dừng lại.
+- Hai tay hoặc một tay dang ngang: Người tham gia giao thông ở phía trước và phía sau phải dừng, phía bên phải và bên trái được đi.
+- Tay bên phải giơ về phía trước: Người ở phía sau và bên phải phải dừng, người phía trước được rẽ phải, người phía bên trái được đi mọi hướng; người đi bộ phải đi sau lưng người điều khiển giao thông."
 Đèn tín hiệu giao thông có mấy màu và ý nghĩa của từng màu là gì?,"Khi tham gia giao thông, đèn xanh, vàng, đỏ có ý nghĩa gì?",Các màu đèn giao thông biểu thị điều gì?,Người đi đường phải làm gì khi đèn tín hiệu chuyển màu?,11,2,"Đèn tín hiệu giao thông có 3 màu:
-
-Xanh: Được đi; phải nhường đường cho người đi bộ, xe lăn đang di chuyển.
-Vàng: Phải dừng trước vạch dừng; nếu đã vượt vạch được đi tiếp; đèn vàng nhấp nháy thì đi chậm, quan sát.
-Đỏ: Cấm đi."
+- Xanh: Được đi; phải nhường đường cho người đi bộ, xe lăn đang di chuyển.
+- Vàng: Phải dừng trước vạch dừng; nếu đã vượt vạch được đi tiếp; đèn vàng nhấp nháy thì đi chậm, quan sát.
+- Đỏ: Cấm đi."
 Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng loại?,Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng loại?,Biển báo giao thông được chia làm mấy loại?,Người tham gia giao thông cần hiểu các loại biển báo như thế nào?,11,2,"Biển báo hiệu đường bộ gồm:
-
-Biển báo cấm: Thể hiện các điều cấm.
-Biển báo nguy hiểm: Cảnh báo nguy hiểm.
-Biển hiệu lệnh: Thể hiện lệnh phải thi hành.
-Biển chỉ dẫn: Chỉ hướng đi và thông tin cần biết.
-Biển phụ: Thuyết minh bổ sung cho các biển khác."
+- Biển báo cấm: Thể hiện các điều cấm.
+- Biển báo nguy hiểm: Cảnh báo nguy hiểm.
+- Biển hiệu lệnh: Thể hiện lệnh phải thi hành.
+- Biển chỉ dẫn: Chỉ hướng đi và thông tin cần biết.
+- Biển phụ: Thuyết minh bổ sung cho các biển khác."
 Vạch kẻ đường có tác dụng gì trong giao thông?,Vạch kẻ đường giúp người tham gia giao thông như thế nào?,Vai trò của vạch kẻ đường là gì?,"Khi lái xe, người điều khiển phải chú ý gì đến vạch kẻ đường?",11,2,"Vạch kẻ đường phân chia làn đường, xác định vị trí, hướng đi, và vị trí dừng cho phương tiện."
 "Cọc tiêu, tường bảo vệ, rào chắn và các thiết bị khác giúp gì cho người tham gia giao thông?",Tại sao cần lắp cọc tiêu và tường bảo vệ trên đường?,Rào chắn và cọc tiêu có tác dụng gì khi tham gia giao thông?,Các thiết bị hỗ trợ an toàn trên đường có vai trò ra sao?,11,2,"Cọc tiêu, tường bảo vệ giúp người tham gia giao thông xác định phạm vi an toàn và hướng đi; rào chắn ngăn cản người, phương tiện di chuyển vào khu vực cấm."
 Người tham gia giao thông phải làm gì khi gặp biển báo cố định và biển báo tạm thời có mâu thuẫn?,"Nếu gặp biển báo tạm thời và cố định khác nhau, người đi đường nên tuân theo biển nào?","Khi biển báo tạm thời và biển cố định không giống nhau, xử lý thế nào?","Trường hợp biển báo có sự mâu thuẫn, người tham gia giao thông cần tuân theo đâu?",11,2,Người tham gia giao thông phải chấp hành biển báo hiệu tạm thời.
@@ -138,31 +128,28 @@ Người điều khiển xe phía trước phải làm gì khi có xe xin vượ
 Trong trường hợp nào xe được phép vượt bên phải?,Khi nào người lái xe được vượt xe phía trước từ bên phải?,"Có được phép vượt bên phải không? Nếu có, trong trường hợp nào?",Vượt bên phải có hợp pháp không? Khi nào được thực hiện?,14,2,"Xe chỉ được phép vượt bên phải khi xe phía trước bật tín hiệu rẽ trái, đang rẽ trái hoặc khi gặp xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái."
 Xe xin vượt cần báo hiệu như thế nào?,"Khi vượt xe, tài xế phải sử dụng tín hiệu gì?",Xe muốn vượt cần dùng loại báo hiệu nào?,Có quy định gì về tín hiệu khi xin vượt?,14,2,"Xe xin vượt phải bật đèn chiếu sáng nhấp nháy hoặc còi (trừ xe thô sơ không có thiết bị này). Trong đô thị từ 22h đến 5h, chỉ được dùng đèn để xin vượt."
 Những trường hợp nào người lái xe không được phép vượt?,Khi nào việc vượt xe bị cấm?,Người điều khiển xe không được vượt trong tình huống nào?,Vượt xe bị cấm khi gặp những điều kiện gì?,14,2,"Không được vượt khi:
-
-Không đủ điều kiện an toàn;
-Trên cầu hẹp một làn, đường cong, đỉnh dốc hạn chế tầm nhìn;
-Ở nơi giao nhau, đường sắt, hầm;
-Gặp xe ưu tiên, người đi bộ, xe lăn;
-Đường trơn trượt, thời tiết xấu."
+- Không đủ điều kiện an toàn;
+- Trên cầu hẹp một làn, đường cong, đỉnh dốc hạn chế tầm nhìn;
+- Ở nơi giao nhau, đường sắt, hầm;
+- Gặp xe ưu tiên, người đi bộ, xe lăn;
+- Đường trơn trượt, thời tiết xấu."
 Chuyển hướng xe được hiểu như thế nào?,Khi nào một phương tiện được coi là đang chuyển hướng?,Chuyển hướng xe bao gồm những hành động nào?,Thế nào là hành động chuyển hướng khi tham gia giao thông?,15,2,"Chuyển hướng xe là khi người điều khiển xe thực hiện hành động rẽ trái, rẽ phải hoặc quay đầu xe."
 Người lái xe cần làm gì trước khi chuyển hướng?,"Trước khi rẽ, người lái xe phải thực hiện những bước nào?",Có những quy tắc gì cần tuân thủ trước khi chuyển hướng?,"Để đảm bảo an toàn khi chuyển hướng, tài xế phải chú ý điều gì?",15,2,"Trước khi chuyển hướng, người điều khiển phương tiện phải quan sát, giữ khoảng cách an toàn với xe phía sau, giảm tốc độ, bật tín hiệu báo rẽ (hoặc ra hiệu bằng tay với xe thô sơ), chuyển dần sang làn gần hướng rẽ và chỉ thực hiện khi đã đảm bảo an toàn."
 Người điều khiển xe phải nhường đường cho ai khi chuyển hướng?,"Khi rẽ, người lái xe cần ưu tiên cho những đối tượng nào?",Ai được quyền đi trước khi xe đang muốn chuyển hướng?,Người điều khiển xe cần lưu ý gì khi nhường đường lúc rẽ?,15,2,"Khi chuyển hướng, người điều khiển xe phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ rẽ khi không gây cản trở hay nguy hiểm cho người, phương tiện khác."
 Trong những trường hợp nào không được quay đầu xe?,Khi nào người lái xe bị cấm quay đầu?,Có những vị trí nào không được phép quay đầu xe?,Người lái xe cần tránh quay đầu ở đâu để không vi phạm luật?,15,2,"Không được quay đầu xe tại:
-
-Vạch dành cho người đi bộ;
-Trên cầu, đầu cầu, gầm cầu vượt, ngầm;
-Đường giao nhau với đường sắt;
-Đường hẹp, đường dốc, đoạn cong khuất tầm nhìn;
-Đường cao tốc, hầm đường bộ, đường một chiều (trừ khi có hiệu lệnh hoặc biển báo cho phép)."
+- Vạch dành cho người đi bộ;
+- Trên cầu, đầu cầu, gầm cầu vượt, ngầm;
+- Đường giao nhau với đường sắt;
+- Đường hẹp, đường dốc, đoạn cong khuất tầm nhìn;
+- Đường cao tốc, hầm đường bộ, đường một chiều (trừ khi có hiệu lệnh hoặc biển báo cho phép)."
 Người điều khiển phương tiện cần chú ý những gì khi lùi xe để đảm bảo an toàn?,"Khi lùi xe, tài xế nên thực hiện những bước nào để tránh gây nguy hiểm?",Làm thế nào để đảm bảo an toàn cho bản thân và người xung quanh khi lùi xe?,Có những yếu tố quan trọng nào mà người lái xe phải chú ý đến khi lùi xe?,16,2,"Người điều khiển phương tiện cần quan sát kỹ hai bên và phía sau xe, bật tín hiệu lùi và chỉ thực hiện việc lùi xe khi chắc chắn rằng không gây nguy hiểm cho người khác hay phương tiện xung quanh."
 Có những vị trí nào mà người lái xe không được phép lùi?,Người điều khiển phương tiện cần tránh lùi xe ở những nơi nào?,Những khu vực nào bị cấm khi thực hiện việc lùi xe?,"Khi muốn lùi xe, tài xế nên chú ý tránh những địa điểm nào?",16,2,"Người lái xe không được phép lùi ở các vị trí như: đường một chiều, khu vực cấm dừng, phần đường dành cho người đi bộ, nơi giao nhau giữa các con đường, khu vực giao cắt với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ và trên đường cao tốc."
 Vì sao việc quan sát xung quanh khi lùi xe lại quan trọng?,Việc kiểm tra hai bên và phía sau trước khi lùi xe có tác dụng gì?,Lý do gì khiến người lái xe cần quan sát cẩn thận khi lùi?,Tại sao người điều khiển phương tiện phải để ý xung quanh khi thực hiện lùi xe?,16,2,"Việc quan sát giúp người lái xe phát hiện các chướng ngại vật, người đi bộ hoặc phương tiện khác, từ đó tránh gây tai nạn và đảm bảo an toàn cho tất cả mọi người tham gia giao thông."
 "Khi gặp xe đi ngược chiều trên đường không có dải phân cách, người lái xe cần làm gì để đảm bảo an toàn?","Khi di chuyển trên đường hai chiều không có dải phân cách, tài xế phải xử lý thế nào nếu gặp xe đi ngược chiều?",Người điều khiển phương tiện cần tuân thủ nguyên tắc nào khi tránh xe đi ngược chiều trên đường không phân làn riêng biệt?,Làm thế nào để đảm bảo an toàn khi đối diện với một xe khác trên đoạn đường không có vạch chia làn?,17,2,"Người điều khiển phương tiện cần giảm tốc độ, chủ động đi sát về bên phải theo chiều di chuyển của mình để tránh va chạm và đảm bảo an toàn cho cả hai bên."
 Trong những trường hợp nào một xe phải nhường đường khi tránh xe ngược chiều?,"Khi tránh xe đi ngược chiều, trong hoàn cảnh nào tài xế cần nhường đường?",Có những nguyên tắc nào về nhường đường khi hai xe đi ngược chiều gặp nhau?,Tình huống nào buộc một xe phải dừng lại hoặc né tránh khi gặp xe đối diện?,17,2,"Tài xế cần nhường đường trong các trường hợp sau:
-
-Nếu đường hẹp chỉ đủ cho một xe và có chỗ tránh, xe ở gần chỗ tránh hơn phải nhường đường.
-Khi đi xuống dốc, xe xuống phải nhường đường cho xe lên dốc.
-Nếu có chướng ngại vật phía trước, xe gặp chướng ngại vật phải nhường đường cho xe không bị cản trở."
+- Nếu đường hẹp chỉ đủ cho một xe và có chỗ tránh, xe ở gần chỗ tránh hơn phải nhường đường.
+- Khi đi xuống dốc, xe xuống phải nhường đường cho xe lên dốc.
+- Nếu có chướng ngại vật phía trước, xe gặp chướng ngại vật phải nhường đường cho xe không bị cản trở."
 Thế nào là dừng xe và khi dừng xe người lái cần tuân thủ những điều gì?,Khi nào được coi là dừng xe và tài xế phải chú ý điều gì khi dừng xe?,Người lái xe cần thực hiện những yêu cầu nào khi tạm dừng xe trên đường?,Dừng xe khác gì với việc đỗ xe và người điều khiển phương tiện cần lưu ý gì khi dừng xe?,18,2,"Dừng xe là trạng thái xe đứng yên tạm thời để cho người lên xuống xe, xếp dỡ hàng hoặc kiểm tra xe. Khi dừng xe, người lái không được tắt máy, không rời khỏi vị trí lái trừ khi cần đóng, mở cửa, xếp dỡ hàng hay kiểm tra xe, nhưng phải dùng phanh đỗ hoặc biện pháp an toàn khác."
 Đỗ xe được hiểu như thế nào và người lái cần làm gì để đảm bảo an toàn khi đỗ xe?,Khi nào việc dừng xe được coi là đỗ xe và người lái cần lưu ý gì?,Người điều khiển phương tiện phải đảm bảo an toàn ra sao khi đỗ xe?,"Để tránh nguy hiểm, người lái cần thực hiện những biện pháp nào khi đỗ xe?",18,2,"Đỗ xe là trạng thái xe đứng yên không giới hạn thời gian. Người lái chỉ được rời khỏi xe sau khi đã kéo phanh tay hoặc dùng biện pháp an toàn khác. Nếu đỗ trên dốc, cần đánh lái về phía lề đường và chèn bánh để tránh trôi xe."
 "Người điều khiển xe phải làm gì khi ra vào vị trí dừng, đỗ xe để không ảnh hưởng đến giao thông?","Khi dừng hoặc đỗ xe, tài xế cần tuân thủ những quy định nào để đảm bảo an toàn cho người khác?","Làm thế nào để không gây cản trở khi di chuyển vào hoặc ra khỏi vị trí dừng, đỗ xe?",Người lái xe cần báo hiệu ra sao khi muốn dừng hoặc đỗ xe?,18,2,"Người điều khiển phương tiện phải bật tín hiệu báo cho các phương tiện khác biết khi ra, vào vị trí dừng, đỗ và đảm bảo không làm ảnh hưởng đến người đi bộ hay các phương tiện khác."

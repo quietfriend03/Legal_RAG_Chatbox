@@ -1,11 +1,13 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <CIVIL-CODE>
     <INFORMATION>
-        <NAME>Luật An Ninh Mạng</NAME>
-        <YEAR>2018</YEAR>
-        <LINK>https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-an-ninh-mang-2018-351416.aspx</LINK>
+        <NAME>CIVIL CODE</NAME>
+        <YEAR>2015</YEAR>
+        <LINK>https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Bo-luat-dan-su-2015-296215.aspx</LINK>
     </INFORMATION>
-    <CONVERSATION id="1" article="1" chapter="1">
+    <CONVERSATION id="1"
+        article="1"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Phạm vi điều chỉnh của luật này bao gồm những hoạt động gì để bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng?</QUESTION>
             <QUESTION>Luật này điều chỉnh những hoạt động nào để bảo vệ an ninh quốc gia và giữ gìn trật tự, an toàn xã hội trên mạng?</QUESTION>
@@ -13,12 +15,12 @@
             <QUESTION>Các hoạt động nào được quy định trong luật này để duy trì an ninh quốc gia và trật tự xã hội trên không gian mạng?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Luật này quy định các hoạt động liên quan đến việc bảo vệ an ninh quốc gia và duy trì trật tự, an toàn xã hội trên không gian mạng, bao gồm các biện pháp bảo vệ dữ liệu, đảm bảo an ninh mạng, và  ngăn chặn các hành vi xâm phạm lợi ích quốc gia trên mạng.
-            </ANSWER>
+            <ANSWER>Luật này quy định các hoạt động liên quan đến việc bảo vệ an ninh quốc gia và duy trì trật tự, an toàn xã hội trên không gian mạng, bao gồm các biện pháp bảo vệ dữ liệu, đảm bảo an ninh mạng, và ngăn chặn các hành vi xâm phạm lợi ích quốc gia trên mạng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="2" article="2" chapter="1">
+    <CONVERSATION id="2"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>An ninh mạng là gì?</QUESTION>
             <QUESTION>An ninh mạng được hiểu như thế nào?</QUESTION>
@@ -26,12 +28,12 @@
             <QUESTION>Hoạt động trên mạng cần tuân thủ những yếu tố an toàn nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương hạiđến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
-            </ANSWER>
+            <ANSWER>An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="3" article="2" chapter="1">
+    <CONVERSATION id="3"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Bảo vệ an ninh mạng bao gồm những hoạt động gì?</QUESTION>
             <QUESTION>Những biện pháp nào giúp giữ an toàn cho không gian mạng?</QUESTION>
@@ -42,7 +44,9 @@
             <ANSWER>Bảo vệ an ninh mạng là việc phòng ngừa, phát hiện, ngăn chặn và xử lý các hành vi xâm phạm an ninh mạng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="4" article="2" chapter="1">
+    <CONVERSATION id="4"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Không gian mạng được hiểu như thế nào?</QUESTION>
             <QUESTION>Không gian mạng bao gồm những gì?</QUESTION>
@@ -50,12 +54,12 @@
             <QUESTION>Những yếu tố nào cấu thành không gian mạng?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Không gian mạng là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin, bao gồm mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã hội không bị giới hạn bởi không gianvà thời gian.
-            </ANSWER>
+            <ANSWER>Không gian mạng là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin, bao gồm mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã hội không bị giới hạn bởi không gian và thời gian.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="5" article="2" chapter="1">
+    <CONVERSATION id="5"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Không gian mạng quốc gia khác gì không gian mạng?</QUESTION>
             <QUESTION>Ai chịu trách nhiệm quản lý không gian mạng của một quốc gia?</QUESTION>
@@ -63,12 +67,12 @@
             <QUESTION>Chính phủ có vai trò gì trong việc kiểm soát không gian mạng?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Không gian mạng quốc gia là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát.
-            </ANSWER>
+            <ANSWER>Không gian mạng quốc gia là không gian mạng do Chính phủ xác lập, quản lý và kiểm soát.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="6" article="2" chapter="1">
+    <CONVERSATION id="6"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Cơ sở hạ tầng không gian mạng quốc gia gồm những gì?</QUESTION>
             <QUESTION>Những yếu tố nào đảm bảo hoạt động của mạng quốc gia?</QUESTION>
@@ -85,7 +89,9 @@
             </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="7" article="2" chapter="1">
+    <CONVERSATION id="7"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Cổng kết nối mạng quốc tế đóng vai trò gì?</QUESTION>
             <QUESTION>Làm sao để mạng trong nước kết nối với mạng quốc tế?</QUESTION>
@@ -93,12 +99,12 @@
             <QUESTION>Hoạt động trao đổi tín hiệu mạng giữa Việt Nam và nước ngoài diễn ra ở đâu?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Cổng kết nối mạng quốc tế là nơi diễn ra hoạt động chuyển nhận tín hiệu mạnggiữa Việt Nam và các quốc gia, vùng lãnh thổ khác.
-            </ANSWER>
+            <ANSWER>Cổng kết nối mạng quốc tế là nơi diễn ra hoạt động chuyển nhận tín hiệu mạng giữa Việt Nam và các quốc gia, vùng lãnh thổ khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="8" article="2" chapter="1">
+    <CONVERSATION id="8"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Thế nào là tội phạm mạng?</QUESTION>
             <QUESTION>Hành vi nào bị coi là vi phạm nghiêm trọng trên không gian mạng?</QUESTION>
@@ -106,12 +112,12 @@
             <QUESTION>Tội phạm trên Internet bao gồm những hành vi gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Tội phạm mạng là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi vi phạm pháp luật hình sự.
-            </ANSWER>
+            <ANSWER>Tội phạm mạng là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi vi phạm pháp luật hình sự.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="9" article="2" chapter="1">
+    <CONVERSATION id="9"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Khi nào một hành động bị coi là tấn công mạng?</QUESTION>
             <QUESTION>Hành vi phá hoại hệ thống mạng được gọi là gì?</QUESTION>
@@ -119,12 +125,12 @@
             <QUESTION>Hành vi nào gây gián đoạn hoạt động của hệ thống thông tin?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Tấn công mạng là hành vi sử dụng không gian mạng để phá hoại, gây gián đoạn hoạt động của mạng viễn thông, Internet, mạng máy tính, hệ thống thông tin, hoặc cơ sở dữ liệu.
-            </ANSWER>
+            <ANSWER>Tấn công mạng là hành vi sử dụng không gian mạng để phá hoại, gây gián đoạn hoạt động của mạng viễn thông, Internet, mạng máy tính, hệ thống thông tin, hoặc cơ sở dữ liệu.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="10" article="2" chapter="1">
+    <CONVERSATION id="10"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Khủng bố mạng khác gì tấn công mạng?</QUESTION>
             <QUESTION>Hành vi nào trên mạng gây hậu quả nghiêm trọng về an ninh?</QUESTION>
@@ -135,7 +141,9 @@
             <ANSWER>Khủng bố mạng là việc sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để thực hiện hành vi khủng bố hoặc tài trợ khủng bố.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="11" article="2" chapter="1">
+    <CONVERSATION id="11"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Gián điệp mạng là gì?</QUESTION>
             <QUESTION>Hành vi chiếm đoạt thông tin trái phép trên mạng được gọi là gì?</QUESTION>
@@ -143,12 +151,12 @@
             <QUESTION>Truy cập trái phép vào dữ liệu cá nhân có phải là gián điệp mạng không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Gián điệp mạng là hành vi cố ý vượt qua cảnh báo, mã truy cập, mật khẩu, tường lửa hoặc sử dụng quyền quản trị của người khác để chiếm đoạt, thu thập trái phép thông tin.
-            </ANSWER>
+            <ANSWER>Gián điệp mạng là hành vi cố ý vượt qua cảnh báo, mã truy cập, mật khẩu, tường lửa hoặc sử dụng quyền quản trị của người khác để chiếm đoạt, thu thập trái phép thông tin.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="12" article="2" chapter="1">
+    <CONVERSATION id="12"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Tài khoản số có ý nghĩa gì?</QUESTION>
             <QUESTION>Thông tin để đăng nhập vào các ứng dụng trên mạng được gọi là gì?</QUESTION>
@@ -159,7 +167,9 @@
             <ANSWER>Tài khoản số là thông tin dùng để chứng thực, xác thực và phân quyền sử dụng các dịch vụ trên không gian mạng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="13" article="2" chapter="1">
+    <CONVERSATION id="13"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Thế nào là nguy cơ đe dọa an ninh mạng?</QUESTION>
             <QUESTION>Dấu hiệu nào cho thấy an ninh mạng bị đe dọa?</QUESTION>
@@ -167,12 +177,12 @@
             <QUESTION>Nguy cơ nào làm xâm phạm quyền lợi cá nhân trên mạng?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Nguy cơ đe dọa an ninh mạng là tình trạng không gian mạng xuất hiện dấu hiệu xâm phạm an ninh quốc gia, trật tự, an toàn xã hội hoặc quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
-            </ANSWER>
+            <ANSWER>Nguy cơ đe dọa an ninh mạng là tình trạng không gian mạng xuất hiện dấu hiệu xâm phạm an ninh quốc gia, trật tự, an toàn xã hội hoặc quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="14" article="2" chapter="1">
+    <CONVERSATION id="14"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Khi nào xảy ra sự cố an ninh mạng?</QUESTION>
             <QUESTION>Điều gì được coi là sự cố trong không gian mạng?</QUESTION>
@@ -183,7 +193,9 @@
             <ANSWER>Sự cố an ninh mạng là sự việc bất ngờ xảy ra trên không gian mạng gây xâm phạm an ninh quốc gia, trật tự xã hội hoặc quyền lợi hợp pháp của tổ chức, cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="15" article="2" chapter="1">
+    <CONVERSATION id="15"
+        article="2"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Tình huống nguy hiểm về an ninh mạng xảy ra khi nào?</QUESTION>
             <QUESTION>Khi nào sự xâm phạm mạng trở nên đặc biệt nghiêm trọng?</QUESTION>
@@ -191,12 +203,12 @@
             <QUESTION>Điều gì làm tình hình an ninh mạng trở nên nguy hiểm?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Tình huống nguy hiểm về an ninh mạng là sự việc xảy ra trên không gian mạng khi có hành vi xâm phạm nghiêm trọng an ninh quốc gia, gây tổn hại đặc biệt đến trật tự, an toàn xã hội hoặc quyền và lợi ích hợp pháp của tổ chức, cá nhân.
-            </ANSWER>
+            <ANSWER>Tình huống nguy hiểm về an ninh mạng là sự việc xảy ra trên không gian mạng khi có hành vi xâm phạm nghiêm trọng an ninh quốc gia, gây tổn hại đặc biệt đến trật tự, an toàn xã hội hoặc quyền và lợi ích hợp pháp của tổ chức, cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="16" article="3" chapter="1">
+    <CONVERSATION id="16"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Khi tham gia giao thông, người dân cần tuân thủ những quy định gì?</QUESTION>
             <QUESTION>Người tham gia giao thông phải tuân theo quy định nào?</QUESTION>
@@ -204,12 +216,12 @@
             <QUESTION>Có những quy định nào người đi đường cần tuân thủ?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Người tham gia giao thông đường bộ phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông và các quy định pháp luật liên quan, đồng thời có trách nhiệm giữ an toàn cho bản thân và người khác.
-            </ANSWER>
+            <ANSWER>Người tham gia giao thông đường bộ phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông và các quy định pháp luật liên quan, đồng thời có trách nhiệm giữ an toàn cho bản thân và người khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="17" article="3" chapter="1">
+    <CONVERSATION id="17"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của ai?</QUESTION>
             <QUESTION>Ai chịu trách nhiệm giữ gìn trật tự, an toàn giao thông?</QUESTION>
@@ -220,7 +232,9 @@
             <ANSWER>Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của cơ quan, tổ chức và cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="18" article="3" chapter="1">
+    <CONVERSATION id="18"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Vi phạm an toàn giao thông đường bộ sẽ bị xử lý như thế nào?</QUESTION>
             <QUESTION>Hành vi vi phạm giao thông bị xử lý ra sao?</QUESTION>
@@ -231,7 +245,9 @@
             <ANSWER>Mọi hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ đều phải được phát hiện, ngăn chặn kịp thời và xử lý nghiêm minh theo quy định.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="19" article="3" chapter="1">
+    <CONVERSATION id="19"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Việc bảo đảm trật tự, an toàn giao thông đường bộ cần đáp ứng nguyên tắc gì?</QUESTION>
             <QUESTION>Những nguyên tắc nào cần tuân thủ khi đảm bảo an toàn giao thông?</QUESTION>
@@ -242,7 +258,9 @@
             <ANSWER>Hoạt động bảo đảm trật tự, an toàn giao thông phải công khai, minh bạch, thuận lợi cho người dân và phù hợp với chức năng, nhiệm vụ của các bên liên quan.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="20" article="3" chapter="1">
+    <CONVERSATION id="20"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Hoạt động bảo đảm trật tự, an toàn giao thông được thực hiện như thế nào?</QUESTION>
             <QUESTION>Cách thức thực hiện công tác bảo đảm an toàn giao thông ra sao?</QUESTION>
@@ -250,12 +268,12 @@
             <QUESTION>Việc duy trì an toàn giao thông được tổ chức thế nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Hoạt động bảo đảm trật tự, an toàn giao thông được thực hiện thống nhất, trên cơ sở phân công, phân cấp, phù hợp với chức năng, nhiệm vụ và có sự phối hợp chặt chẽ giữa các cơ quan, tổ chức, cá nhân.
-            </ANSWER>
+            <ANSWER>Hoạt động bảo đảm trật tự, an toàn giao thông được thực hiện thống nhất, trên cơ sở phân công, phân cấp, phù hợp với chức năng, nhiệm vụ và có sự phối hợp chặt chẽ giữa các cơ quan, tổ chức, cá nhân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="21" article="3" chapter="1">
+    <CONVERSATION id="21"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Vì sao việc bảo đảm giao thông đường bộ lại quan trọng?</QUESTION>
             <QUESTION>Tại sao cần chú trọng bảo đảm an toàn giao thông?</QUESTION>
@@ -263,12 +281,12 @@
             <QUESTION>Ý nghĩa của việc giữ gìn an toàn giao thông là gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>
-                Việc bảo đảm giao thông đường bộ giúp phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh, bảo vệ môi trường, phòng ngừa tai nạn và bảo vệ tính mạng, tài sản của người dân và tổ chức.
-            </ANSWER>
+            <ANSWER>Việc bảo đảm giao thông đường bộ giúp phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh, bảo vệ môi trường, phòng ngừa tai nạn và bảo vệ tính mạng, tài sản của người dân và tổ chức.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="22" article="3" chapter="1">
+    <CONVERSATION id="22"
+        article="3"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Công dân cần tuân thủ những quy định nào khi tham gia giao thông?</QUESTION>
             <QUESTION>Người dân phải làm gì để bảo đảm an toàn khi tham gia giao thông?</QUESTION>
@@ -276,11 +294,12 @@
             <QUESTION>Người đi đường cần tuân theo các quy tắc nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Công dân cần tuân thủ Hiến pháp, pháp luật Việt Nam và các điều ước quốc tế mà
-                Việt Nam là thành viên khi tham gia giao thông.</ANSWER>
+            <ANSWER>Công dân cần tuân thủ Hiến pháp, pháp luật Việt Nam và các điều ước quốc tế mà Việt Nam là thành viên khi tham gia giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="23" article="4" chapter="1">
+    <CONVERSATION id="23"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Nhà nước hỗ trợ gì cho lực lượng đảm bảo trật tự, an toàn giao thông?</QUESTION>
             <QUESTION>Lực lượng trực tiếp giữ gìn an toàn giao thông được Nhà nước hỗ trợ ra sao?</QUESTION>
@@ -288,13 +307,12 @@
             <QUESTION>Có chính sách gì giúp nâng cao năng lực cho lực lượng an toàn giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước đảm bảo ngân sách, cơ sở vật chất, phương tiện hiện đại và các điều
-                kiện để nâng cao năng lực cho lực lượng trực tiếp bảo đảm trật tự, an toàn giao
-                thông. Đồng thời, sử dụng nguồn thu từ xử phạt và đấu giá biển số xe để tăng cường
-                cơ sở vật chất.</ANSWER>
+            <ANSWER>Nhà nước đảm bảo ngân sách, cơ sở vật chất, phương tiện hiện đại và các điều kiện để nâng cao năng lực cho lực lượng trực tiếp bảo đảm trật tự, an toàn giao thông. Đồng thời, sử dụng nguồn thu từ xử phạt và đấu giá biển số xe để tăng cường cơ sở vật chất.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="24" article="4" chapter="1">
+    <CONVERSATION id="24"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Nhà nước làm gì để hiện đại hoá hệ thống giao thông?</QUESTION>
             <QUESTION>Hệ thống giao thông được hiện đại hóa bằng những biện pháp nào?</QUESTION>
@@ -302,26 +320,25 @@
             <QUESTION>Việc hiện đại hóa giao thông được Nhà nước thực hiện ra sao?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước hiện đại hoá các trung tâm chỉ huy giao thông, đảm bảo kết nối, chia sẻ
-                cơ sở dữ liệu về trật tự, an toàn giao thông giữa các cơ quan liên quan.</ANSWER>
+            <ANSWER>Nhà nước hiện đại hoá các trung tâm chỉ huy giao thông, đảm bảo kết nối, chia sẻ cơ sở dữ liệu về trật tự, an toàn giao thông giữa các cơ quan liên quan.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="25" article="4" chapter="1">
+    <CONVERSATION id="25"
+        article="4"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Làm thế nào để khuyến khích tổ chức, cá nhân tham gia đảm bảo an toàn giao
-                thông?</QUESTION>
-            <QUESTION>Nhà nước khuyến khích người dân và tổ chức hỗ trợ an toàn giao thông như thế
-                nào?</QUESTION>
+            <QUESTION>Làm thế nào để khuyến khích tổ chức, cá nhân tham gia đảm bảo an toàn giao thông?</QUESTION>
+            <QUESTION>Nhà nước khuyến khích người dân và tổ chức hỗ trợ an toàn giao thông như thế nào?</QUESTION>
             <QUESTION>Làm sao để cơ quan, cá nhân cùng tham gia giữ gìn trật tự giao thông?</QUESTION>
             <QUESTION>Làm sao để cơ quan, cá nhân cùng tham gia giữ gìn trật tự giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước tạo điều kiện cho cơ quan, tổ chức, cá nhân nghiên cứu, chuyển giao
-                công nghệ, đầu tư thiết bị giám sát và khuyến khích tham gia tự nguyện vào công tác
-                bảo đảm an toàn giao thông.</ANSWER>
+            <ANSWER>Nhà nước tạo điều kiện cho cơ quan, tổ chức, cá nhân nghiên cứu, chuyển giao công nghệ, đầu tư thiết bị giám sát và khuyến khích tham gia tự nguyện vào công tác bảo đảm an toàn giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="26" article="4" chapter="1">
+    <CONVERSATION id="26"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Những đối tượng nào được tạo điều kiện khi tham gia giao thông?</QUESTION>
             <QUESTION>Nhà nước hỗ trợ đối tượng nào khi tham gia giao thông?</QUESTION>
@@ -329,11 +346,12 @@
             <QUESTION>Những người nào được tạo điều kiện an toàn khi tham gia giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước bảo đảm công bằng, an toàn cho người tham gia giao thông, tạo thuận lợi
-                cho trẻ em, phụ nữ mang thai, người già yếu và người khuyết tật.</ANSWER>
+            <ANSWER>Nhà nước bảo đảm công bằng, an toàn cho người tham gia giao thông, tạo thuận lợi cho trẻ em, phụ nữ mang thai, người già yếu và người khuyết tật.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="27" article="4" chapter="1">
+    <CONVERSATION id="27"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Có chính sách gì để giáo dục ý thức tham gia giao thông cho trẻ em?</QUESTION>
             <QUESTION>Nhà nước làm gì để dạy trẻ em về an toàn giao thông?</QUESTION>
@@ -341,11 +359,12 @@
             <QUESTION>Có chương trình nào giúp học sinh nâng cao ý thức khi tham gia giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước xây dựng văn hóa giao thông, giáo dục pháp luật về giao thông cho trẻ
-                em và học sinh để nâng cao ý thức tự bảo vệ bản thân.</ANSWER>
+            <ANSWER>Nhà nước xây dựng văn hóa giao thông, giáo dục pháp luật về giao thông cho trẻ em và học sinh để nâng cao ý thức tự bảo vệ bản thân.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="28" article="4" chapter="1">
+    <CONVERSATION id="28"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Những ai được khen thưởng hoặc hỗ trợ khi tham gia đảm bảo an toàn giao thông?</QUESTION>
             <QUESTION>Ai được hưởng chế độ khi hỗ trợ công tác an toàn giao thông?</QUESTION>
@@ -353,12 +372,12 @@
             <QUESTION>Có chính sách khen thưởng nào cho người tham gia đảm bảo trật tự giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cơ quan, tổ chức, cá nhân hỗ trợ đảm bảo an toàn giao thông và có thành tích
-                được khen thưởng; nếu bị thiệt hại tài sản hoặc tổn hại sức khỏe sẽ được đền bù và
-                hưởng chế độ theo quy định.</ANSWER>
+            <ANSWER>Cơ quan, tổ chức, cá nhân hỗ trợ đảm bảo an toàn giao thông và có thành tích được khen thưởng; nếu bị thiệt hại tài sản hoặc tổn hại sức khỏe sẽ được đền bù và hưởng chế độ theo quy định.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="29" article="4" chapter="1">
+    <CONVERSATION id="29"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Nhà nước có biện pháp gì để hạn chế phương tiện cá nhân?</QUESTION>
             <QUESTION>Làm thế nào để giảm số lượng xe cá nhân tại các thành phố lớn?</QUESTION>
@@ -366,12 +385,12 @@
             <QUESTION>Có giải pháp nào nhằm hạn chế sử dụng xe cá nhân?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước ưu tiên phát triển giao thông công cộng, hạn chế phương tiện cá nhân
-                tại đô thị lớn và khuyến khích chuyển sang sử dụng phương tiện xanh, thân thiện môi
-                trường.</ANSWER>
+            <ANSWER>Nhà nước ưu tiên phát triển giao thông công cộng, hạn chế phương tiện cá nhân tại đô thị lớn và khuyến khích chuyển sang sử dụng phương tiện xanh, thân thiện môi trường.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="30" article="4" chapter="1">
+    <CONVERSATION id="30"
+        article="4"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Nhà nước phát triển phương tiện giao thông theo hướng nào?</QUESTION>
             <QUESTION>Xu hướng phát triển giao thông của Nhà nước là gì?</QUESTION>
@@ -379,11 +398,12 @@
             <QUESTION>Nhà nước ưu tiên loại phương tiện nào trong tương lai?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nhà nước phát triển phương tiện giao thông đồng bộ với hạ tầng, ưu tiên xe điện,
-                phương tiện năng lượng xanh, đảm bảo an toàn và phù hợp với công nghệ hiện đại.</ANSWER>
+            <ANSWER>Nhà nước phát triển phương tiện giao thông đồng bộ với hạ tầng, ưu tiên xe điện, phương tiện năng lượng xanh, đảm bảo an toàn và phù hợp với công nghệ hiện đại.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="31" article="5" chapter="1">
+    <CONVERSATION id="31"
+        article="5"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Ai là người chịu trách nhiệm tuyên truyền pháp luật về an toàn giao thông?</QUESTION>
             <QUESTION>Những cơ quan, tổ chức nào tham gia phổ biến luật giao thông?</QUESTION>
@@ -391,73 +411,64 @@
             <QUESTION>Việc tuyên truyền luật giao thông được giao cho ai phụ trách?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cơ quan quản lý nhà nước về trật tự, an toàn giao thông chủ trì, phối hợp với
-                các cơ quan, tổ chức, cá nhân liên quan. Đồng thời, cơ quan thông tin, truyền thông,
-                Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên, đơn vị lực lượng vũ trang, cơ
-                sở giáo dục và chính quyền địa phương đều có trách nhiệm tuyên truyền.</ANSWER>
+            <ANSWER>Cơ quan quản lý nhà nước về trật tự, an toàn giao thông chủ trì, phối hợp với các cơ quan, tổ chức, cá nhân liên quan. Đồng thời, cơ quan thông tin, truyền thông, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên, đơn vị lực lượng vũ trang, cơ sở giáo dục và chính quyền địa phương đều có trách nhiệm tuyên truyền.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="32" article="5" chapter="1">
+    <CONVERSATION id="32"
+        article="5"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Cơ quan thông tin, truyền thông đóng vai trò gì trong việc phổ biến luật giao
-                thông?</QUESTION>
+            <QUESTION>Cơ quan thông tin, truyền thông đóng vai trò gì trong việc phổ biến luật giao thông?</QUESTION>
             <QUESTION>Truyền thông có nhiệm vụ gì trong việc tuyên truyền an toàn giao thông?</QUESTION>
-            <QUESTION>Cơ quan thông tin đại chúng tham gia thế nào trong việc phổ biến luật giao
-                thông?</QUESTION>
+            <QUESTION>Cơ quan thông tin đại chúng tham gia thế nào trong việc phổ biến luật giao thông?</QUESTION>
             <QUESTION>Vai trò của truyền thông trong việc nâng cao ý thức giao thông là gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cơ quan thông tin, truyền thông có trách nhiệm tổ chức tuyên truyền pháp luật về
-                an toàn giao thông trên các phương tiện thông tin đại chúng.</ANSWER>
+            <ANSWER>Cơ quan thông tin, truyền thông có trách nhiệm tổ chức tuyên truyền pháp luật về an toàn giao thông trên các phương tiện thông tin đại chúng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="33" article="5" chapter="1">
+    <CONVERSATION id="33"
+        article="5"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Mặt trận Tổ quốc Việt Nam tham gia tuyên truyền an toàn giao thông như thế
-                nào?</QUESTION>
+            <QUESTION>Mặt trận Tổ quốc Việt Nam tham gia tuyên truyền an toàn giao thông như thế nào?</QUESTION>
             <QUESTION>Mặt trận Tổ quốc có trách nhiệm gì trong việc phổ biến luật giao thông?</QUESTION>
-            <QUESTION>Vai trò của Mặt trận Tổ quốc trong công tác tuyên truyền an toàn giao thông là
-                gì?</QUESTION>
+            <QUESTION>Vai trò của Mặt trận Tổ quốc trong công tác tuyên truyền an toàn giao thông là gì?</QUESTION>
             <QUESTION>Mặt trận Tổ quốc phối hợp ra sao trong việc tuyên truyền giao thông an toàn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên phối hợp với cơ quan hữu
-                quan, chính quyền địa phương để tuyên truyền, vận động nhân dân chấp hành pháp luật
-                về an toàn giao thông.</ANSWER>
+            <ANSWER>Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên phối hợp với cơ quan hữu quan, chính quyền địa phương để tuyên truyền, vận động nhân dân chấp hành pháp luật về an toàn giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="34" article="5" chapter="1">
+    <CONVERSATION id="34"
+        article="5"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Đơn vị lực lượng vũ trang và cơ sở giáo dục có trách nhiệm gì trong tuyên
-                truyền giao thông?</QUESTION>
-            <QUESTION>Lực lượng vũ trang và nhà trường có nhiệm vụ gì với việc giáo dục an toàn giao
-                thông?</QUESTION>
-            <QUESTION>Trách nhiệm của quân đội, công an và cơ sở giáo dục trong việc phổ biến luật
-                giao thông là gì?</QUESTION>
-            <QUESTION>Các tổ chức giáo dục và lực lượng vũ trang tham gia tuyên truyền giao thông ra
-                sao?</QUESTION>
+            <QUESTION>Đơn vị lực lượng vũ trang và cơ sở giáo dục có trách nhiệm gì trong tuyên truyền giao thông?</QUESTION>
+            <QUESTION>Lực lượng vũ trang và nhà trường có nhiệm vụ gì với việc giáo dục an toàn giao thông?</QUESTION>
+            <QUESTION>Trách nhiệm của quân đội, công an và cơ sở giáo dục trong việc phổ biến luật giao thông là gì?</QUESTION>
+            <QUESTION>Các tổ chức giáo dục và lực lượng vũ trang tham gia tuyên truyền giao thông ra sao?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Đơn vị lực lượng vũ trang, cơ quan, tổ chức và cơ sở giáo dục có trách nhiệm
-                tuyên truyền, phổ biến pháp luật về an toàn giao thông cho các đối tượng thuộc phạm
-                vi quản lý.</ANSWER>
+            <ANSWER>Đơn vị lực lượng vũ trang, cơ quan, tổ chức và cơ sở giáo dục có trách nhiệm tuyên truyền, phổ biến pháp luật về an toàn giao thông cho các đối tượng thuộc phạm vi quản lý.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="35" article="5" chapter="1">
+    <CONVERSATION id="35"
+        article="5"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Gia đình có vai trò gì trong việc giáo dục an toàn giao thông?</QUESTION>
             <QUESTION>Thành viên gia đình nên làm gì để nhắc nhở nhau tuân thủ luật giao thông?</QUESTION>
             <QUESTION>Gia đình có trách nhiệm ra sao với việc chấp hành luật giao thông?</QUESTION>
-            <QUESTION>Vai trò của các thành viên trong gia đình trong việc giữ an toàn giao thông là
-                gì?</QUESTION>
+            <QUESTION>Vai trò của các thành viên trong gia đình trong việc giữ an toàn giao thông là gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Các thành viên trong gia đình phải nhắc nhở nhau chấp hành pháp luật giao thông,
-                sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ dưới 6
-                tuổi khi đi xe máy, mô tô.</ANSWER>
+            <ANSWER>Các thành viên trong gia đình phải nhắc nhở nhau chấp hành pháp luật giao thông, sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ dưới 6 tuổi khi đi xe máy, mô tô.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="36" article="5" chapter="1">
+    <CONVERSATION id="36"
+        article="5"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Những ai được tuyên truyền pháp luật về an toàn giao thông?</QUESTION>
             <QUESTION>Đối tượng nào được phổ biến kiến thức về an toàn giao thông?</QUESTION>
@@ -465,87 +476,84 @@
             <QUESTION>Việc tuyên truyền luật giao thông hướng tới những ai?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Việc tuyên truyền được thực hiện rộng rãi cho mọi tầng lớp nhân dân và người
-                nước ngoài sinh sống tại Việt Nam.</ANSWER>
+            <ANSWER>Việc tuyên truyền được thực hiện rộng rãi cho mọi tầng lớp nhân dân và người nước ngoài sinh sống tại Việt Nam.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="37" article="5" chapter="1">
+    <CONVERSATION id="37"
+        article="5"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Ủy ban nhân dân các cấp có trách nhiệm gì trong việc tuyên truyền luật giao
-                thông?</QUESTION>
+            <QUESTION>Ủy ban nhân dân các cấp có trách nhiệm gì trong việc tuyên truyền luật giao thông?</QUESTION>
             <QUESTION>Chính quyền địa phương tham gia tuyên truyền an toàn giao thông thế nào?</QUESTION>
             <QUESTION>Vai trò của Ủy ban nhân dân trong phổ biến luật giao thông là gì?</QUESTION>
             <QUESTION>Ủy ban nhân dân các cấp có nhiệm vụ gì với việc nâng cao ý thức giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Ủy ban nhân dân các cấp tổ chức tuyên truyền luật giao thông trong phạm vi nhiệm
-                vụ, quyền hạn của mình, lựa chọn hình thức tuyên truyền phù hợp với từng đối tượng.</ANSWER>
+            <ANSWER>Ủy ban nhân dân các cấp tổ chức tuyên truyền luật giao thông trong phạm vi nhiệm vụ, quyền hạn của mình, lựa chọn hình thức tuyên truyền phù hợp với từng đối tượng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="38" article="6" chapter="1">
+    <CONVERSATION id="38"
+        article="6"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Ai là đối tượng được giáo dục kiến thức pháp luật về an toàn giao thông trong
-                nhà trường?</QUESTION>
+            <QUESTION>Ai là đối tượng được giáo dục kiến thức pháp luật về an toàn giao thông trong nhà trường?</QUESTION>
             <QUESTION>Những đối tượng nào trong hệ thống giáo dục được học về an toàn giao thông?</QUESTION>
-            <QUESTION>Ai được giáo dục pháp luật về trật tự, an toàn giao thông trong các cơ sở giáo
-                dục?</QUESTION>
+            <QUESTION>Ai được giáo dục pháp luật về trật tự, an toàn giao thông trong các cơ sở giáo dục?</QUESTION>
             <QUESTION>Đối tượng nào trong trường học được trang bị kiến thức luật giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trẻ em mầm non, học sinh phổ thông và học sinh tại các cơ sở giáo dục nghề
-                nghiệp đều được giáo dục kiến thức pháp luật về trật tự, an toàn giao thông.</ANSWER>
+            <ANSWER>Trẻ em mầm non, học sinh phổ thông và học sinh tại các cơ sở giáo dục nghề nghiệp đều được giáo dục kiến thức pháp luật về trật tự, an toàn giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="39" article="6" chapter="1">
+    <CONVERSATION id="39"
+        article="6"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Lực lượng Cảnh sát giao thông có nhiệm vụ gì trong việc giáo dục kỹ năng lái
-                xe cho học sinh?</QUESTION>
-            <QUESTION>Vai trò của Cảnh sát giao thông trong việc hướng dẫn học sinh lái xe an toàn
-                là gì?</QUESTION>
+            <QUESTION>Lực lượng Cảnh sát giao thông có nhiệm vụ gì trong việc giáo dục kỹ năng lái xe cho học sinh?</QUESTION>
+            <QUESTION>Vai trò của Cảnh sát giao thông trong việc hướng dẫn học sinh lái xe an toàn là gì?</QUESTION>
             <QUESTION>Cảnh sát giao thông tham gia giáo dục giao thông cho học sinh như thế nào?</QUESTION>
             <QUESTION>Ai chịu trách nhiệm tổ chức hướng dẫn lái xe an toàn cho học sinh?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Lực lượng Cảnh sát giao thông chủ trì, phối hợp với các cơ sở giáo dục trung học
-                phổ thông và giáo dục nghề nghiệp để hướng dẫn kỹ năng lái xe gắn máy an toàn cho
-                học sinh.</ANSWER>
+            <ANSWER>Lực lượng Cảnh sát giao thông chủ trì, phối hợp với các cơ sở giáo dục trung học phổ thông và giáo dục nghề nghiệp để hướng dẫn kỹ năng lái xe gắn máy an toàn cho học sinh.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="40" article="6" chapter="1">
+    <CONVERSATION id="40"
+        article="6"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Ai chịu trách nhiệm xây dựng chương trình giảng dạy kiến thức an toàn giao
-                thông trong trường học?</QUESTION>
+            <QUESTION>Ai chịu trách nhiệm xây dựng chương trình giảng dạy kiến thức an toàn giao thông trong trường học?</QUESTION>
             <QUESTION>Cơ quan nào xây dựng và lồng ghép kiến thức giao thông vào chương trình học?</QUESTION>
             <QUESTION>Ai đảm nhận việc tích hợp giáo dục giao thông vào chương trình giảng dạy?</QUESTION>
-            <QUESTION>Đơn vị nào có trách nhiệm phát triển chương trình giảng dạy về an toàn giao
-                thông?</QUESTION>
+            <QUESTION>Đơn vị nào có trách nhiệm phát triển chương trình giảng dạy về an toàn giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp
-                với Bộ Công an và các cơ quan liên quan để xây dựng, lồng ghép kiến thức giao thông
-                vào chương trình giảng dạy phù hợp với từng cấp học và ngành học.</ANSWER>
+            <ANSWER>Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với Bộ Công an và các cơ quan liên quan để xây dựng, lồng ghép kiến thức giao thông vào chương trình giảng dạy phù hợp với từng cấp học và ngành học.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="41" article="7" chapter="1">
+    <CONVERSATION id="41"
+        article="7"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm những thông tin
-                gì?</QUESTION>
+            <QUESTION>Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm những thông tin gì?</QUESTION>
             <QUESTION>Những loại dữ liệu nào được thu thập trong hệ thống giao thông đường bộ?</QUESTION>
             <QUESTION>Thông tin nào được lưu trữ trong cơ sở dữ liệu an toàn giao thông?</QUESTION>
             <QUESTION>Cơ sở dữ liệu giao thông đường bộ chứa những nội dung gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ gồm:
-
-                Dữ liệu đăng ký, quản lý và đăng kiểm xe cơ giới, xe máy chuyên dùng.
-                Dữ liệu đào tạo, sát hạch, cấp giấy phép lái xe và chứng chỉ bồi dưỡng kiến thức
-                pháp luật.
-                Thông tin về người điều khiển phương tiện, bảo hiểm xe, xử lý vi phạm hành chính.
-                Dữ liệu về tai nạn giao thông, hành trình phương tiện, hình ảnh người lái xe.
-                Dữ liệu quản lý thời gian lái xe và các dữ liệu khác liên quan.</ANSWER>
+            <ANSWER>
+                Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ gồm:
+                - Dữ liệu đăng ký, quản lý và đăng kiểm xe cơ giới, xe máy chuyên dùng.
+                - Dữ liệu đào tạo, sát hạch, cấp giấy phép lái xe và chứng chỉ bồi dưỡng kiến thức pháp luật.
+                - Thông tin về người điều khiển phương tiện, bảo hiểm xe, xử lý vi phạm hành chính.
+                - Dữ liệu về tai nạn giao thông, hành trình phương tiện, hình ảnh người lái xe.
+                - Dữ liệu quản lý thời gian lái xe và các dữ liệu khác liên quan.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="42" article="7" chapter="1">
+    <CONVERSATION id="42"
+        article="7"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Cơ sở dữ liệu giao thông đường bộ được kết nối với những hệ thống nào?</QUESTION>
             <QUESTION>Hệ thống dữ liệu giao thông được chia sẻ với những cơ sở dữ liệu nào?</QUESTION>
@@ -553,13 +561,17 @@
             <QUESTION>Những hệ thống dữ liệu nào được kết nối với cơ sở dữ liệu an toàn giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ được kết nối, chia sẻ với:
-                Cơ sở dữ liệu quốc gia về dân cư.
-                Cơ sở dữ liệu đường bộ.
-                Các cơ sở dữ liệu liên quan khác.</ANSWER>
+            <ANSWER>
+                Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ được kết nối, chia sẻ với:
+                - Cơ sở dữ liệu quốc gia về dân cư.
+                - Cơ sở dữ liệu đường bộ.
+                - Các cơ sở dữ liệu liên quan khác.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="43" article="7" chapter="1">
+    <CONVERSATION id="43"
+        article="7"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Ai quy định chi tiết về việc thu thập và quản lý dữ liệu giao thông đường bộ?</QUESTION>
             <QUESTION>Cơ quan nào chịu trách nhiệm quy định thu thập dữ liệu giao thông?</QUESTION>
@@ -567,92 +579,94 @@
             <QUESTION>Việc khai thác dữ liệu giao thông đường bộ thuộc thẩm quyền của ai?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Chính phủ quy định chi tiết về nội dung, thu thập, quản lý và khai thác thông
-                tin trong cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ.</ANSWER>
+            <ANSWER>Chính phủ quy định chi tiết về nội dung, thu thập, quản lý và khai thác thông tin trong cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="44" article="8" chapter="1">
+    <CONVERSATION id="44"
+        article="8"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ cần tuân thủ những
-                nguyên tắc nào?</QUESTION>
+            <QUESTION>Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ cần tuân thủ những nguyên tắc nào?</QUESTION>
             <QUESTION>Nguyên tắc nào được áp dụng khi hợp tác quốc tế về an toàn giao thông?</QUESTION>
-            <QUESTION>Khi hợp tác quốc tế trong lĩnh vực giao thông đường bộ, cần tuân theo những
-                quy định gì?</QUESTION>
+            <QUESTION>Khi hợp tác quốc tế trong lĩnh vực giao thông đường bộ, cần tuân theo những quy định gì?</QUESTION>
             <QUESTION>Hợp tác quốc tế về giao thông đường bộ phải đảm bảo các yếu tố nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ phải:
-
-                Tuân thủ pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.
-                Tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế.
-                Bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ, bảo vệ lợi ích quốc gia và quyền lợi
-                hợp pháp của tổ chức, cá nhân.</ANSWER>
+            <ANSWER>
+                Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ phải:
+                - Tuân thủ pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.
+                - Tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế.
+                - Bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ, bảo vệ lợi ích quốc gia và quyền lợi hợp pháp của tổ chức, cá nhân.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="45" article="8" chapter="1">
+    <CONVERSATION id="45"
+        article="8"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm những
-                gì?</QUESTION>
-            <QUESTION>Hợp tác quốc tế về an toàn giao thông đường bộ tập trung vào những lĩnh vực
-                nào?</QUESTION>
+            <QUESTION>Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm những gì?</QUESTION>
+            <QUESTION>Hợp tác quốc tế về an toàn giao thông đường bộ tập trung vào những lĩnh vực nào?</QUESTION>
             <QUESTION>Những nội dung nào được ưu tiên trong hợp tác quốc tế về giao thông?</QUESTION>
-            <QUESTION>Quốc tế hỗ trợ Việt Nam trong an toàn giao thông đường bộ qua những hình thức
-                nào?</QUESTION>
+            <QUESTION>Quốc tế hỗ trợ Việt Nam trong an toàn giao thông đường bộ qua những hình thức nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ gồm:
-
-                Ký kết điều ước, thỏa thuận quốc tế liên quan.
-                Trao đổi thông tin, chuyển giao công nghệ.
-                Đào tạo, tập huấn cho lực lượng đảm bảo trật tự giao thông.
-                Tăng cường điều kiện vật chất phục vụ an toàn giao thông.
-                Hợp tác giải quyết tai nạn giao thông.
-                Thực hiện các nội dung hợp tác khác theo quy định pháp luật và điều ước quốc tế.</ANSWER>
+            <ANSWER>
+                Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ gồm:
+                - Ký kết điều ước, thỏa thuận quốc tế liên quan.
+                - Trao đổi thông tin, chuyển giao công nghệ.
+                - Đào tạo, tập huấn cho lực lượng đảm bảo trật tự giao thông.
+                - Tăng cường điều kiện vật chất phục vụ an toàn giao thông.
+                - Hợp tác giải quyết tai nạn giao thông.
+                - Thực hiện các nội dung hợp tác khác theo quy định pháp luật và điều ước quốc tế.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="46" article="8" chapter="1">
+    <CONVERSATION id="46"
+        article="8"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Cơ quan nào chịu trách nhiệm chính trong hợp tác quốc tế về giao thông đường
-                bộ?</QUESTION>
+            <QUESTION>Cơ quan nào chịu trách nhiệm chính trong hợp tác quốc tế về giao thông đường bộ?</QUESTION>
             <QUESTION>Ai là cơ quan đầu mối hợp tác quốc tế về an toàn giao thông?</QUESTION>
             <QUESTION>Đơn vị nào đại diện Việt Nam đàm phán các thỏa thuận quốc tế về giao thông?</QUESTION>
             <QUESTION>Cơ quan nào phối hợp với các Bộ, ngành trong hợp tác quốc tế về giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bộ Công an là cơ quan chủ trì, phối hợp với các Bộ, ngành liên quan để:
-
-                Đàm phán, ký kết hoặc đề xuất ký kết điều ước, thỏa thuận quốc tế.
-                Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ.</ANSWER>
+            <ANSWER>
+                Bộ Công an là cơ quan chủ trì, phối hợp với các Bộ, ngành liên quan để:
+                - Đàm phán, ký kết hoặc đề xuất ký kết điều ước, thỏa thuận quốc tế.
+                - Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="47" article="9" chapter="1">
+    <CONVERSATION id="47"
+        article="9"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Người điều khiển phương tiện giao thông cần có những giấy tờ gì khi tham gia
-                giao thông?</QUESTION>
+            <QUESTION>Người điều khiển phương tiện giao thông cần có những giấy tờ gì khi tham gia giao thông?</QUESTION>
             <QUESTION>Khi lái xe trên đường, người điều khiển cần mang theo giấy tờ nào?</QUESTION>
             <QUESTION>Giấy tờ bắt buộc đối với người lái xe tham gia giao thông là gì?</QUESTION>
             <QUESTION>Điều kiện về giấy tờ khi điều khiển phương tiện giao thông gồm những gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện giao thông phải có giấy phép lái xe hoặc chứng chỉ
-                hợp lệ. Trường hợp điều khiển xe máy chuyên dùng cũng cần giấy phép lái xe hoặc
-                chứng chỉ bồi dưỡng kiến thức giao thông.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện giao thông phải có giấy phép lái xe hoặc chứng chỉ hợp lệ. Trường hợp điều khiển xe máy chuyên dùng cũng cần giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="48" article="9" chapter="1">
+    <CONVERSATION id="48"
+        article="9"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Người tham gia giao thông có được phép điều khiển phương tiện khi đã uống rượu
-                bia không?</QUESTION>
+            <QUESTION>Người tham gia giao thông có được phép điều khiển phương tiện khi đã uống rượu bia không?</QUESTION>
             <QUESTION>Việc lái xe sau khi uống rượu bia có được cho phép không?</QUESTION>
             <QUESTION>Người lái xe có thể điều khiển phương tiện nếu trong máu có cồn không?</QUESTION>
             <QUESTION>Có được phép tham gia giao thông khi sử dụng đồ uống có cồn không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Người điều khiển phương tiện không được phép lái xe khi trong máu hoặc
-                hơi thở có nồng độ cồn.</ANSWER>
+            <ANSWER>Không. Người điều khiển phương tiện không được phép lái xe khi trong máu hoặc hơi thở có nồng độ cồn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="49" article="9" chapter="1">
+    <CONVERSATION id="49"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Có bị cấm điều khiển phương tiện khi trong cơ thể có chất kích thích không?</QUESTION>
             <QUESTION>Người lái xe sử dụng ma túy có bị cấm tham gia giao thông không?</QUESTION>
@@ -660,11 +674,12 @@
             <QUESTION>Việc sử dụng chất cấm rồi lái xe có hợp pháp không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bị cấm. Người điều khiển phương tiện không được phép tham gia giao thông khi
-                trong cơ thể có chất ma túy hoặc chất kích thích bị cấm.</ANSWER>
+            <ANSWER>Bị cấm. Người điều khiển phương tiện không được phép tham gia giao thông khi trong cơ thể có chất ma túy hoặc chất kích thích bị cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="50" article="9" chapter="1">
+    <CONVERSATION id="50"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Người dân có được phép sử dụng điện thoại khi lái xe không?</QUESTION>
             <QUESTION>Có được cầm điện thoại khi điều khiển phương tiện giao thông không?</QUESTION>
@@ -672,11 +687,12 @@
             <QUESTION>Người lái xe dùng điện thoại trong lúc lái xe có bị cấm không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Người lái xe không được phép dùng tay cầm và sử dụng điện thoại hoặc
-                thiết bị điện tử khi phương tiện đang di chuyển.</ANSWER>
+            <ANSWER>Không. Người lái xe không được phép dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khi phương tiện đang di chuyển.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="51" article="9" chapter="1">
+    <CONVERSATION id="51"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Hành vi đua xe hoặc cổ vũ đua xe trái phép có bị cấm không?</QUESTION>
             <QUESTION>Có được phép tham gia hoặc cổ vũ đua xe trái phép không?</QUESTION>
@@ -684,11 +700,12 @@
             <QUESTION>Việc giúp sức cho các cuộc đua xe trái phép có bị xử lý không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bị cấm. Mọi hành vi đua xe, tổ chức, xúi giục, giúp sức, cổ vũ đua xe trái phép
-                đều không được phép.</ANSWER>
+            <ANSWER>Bị cấm. Mọi hành vi đua xe, tổ chức, xúi giục, giúp sức, cổ vũ đua xe trái phép đều không được phép.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="52" article="9" chapter="1">
+    <CONVERSATION id="52"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Có được giao xe cho người không đủ điều kiện lái không?</QUESTION>
             <QUESTION>Giao xe cho người không có giấy phép lái xe có vi phạm không?</QUESTION>
@@ -696,11 +713,12 @@
             <QUESTION>Việc cho mượn xe khi người khác không đủ điều kiện có bị cấm không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Việc giao xe cho người không đủ điều kiện điều khiển phương tiện là hành
-                vi bị nghiêm cấm.</ANSWER>
+            <ANSWER>Không. Việc giao xe cho người không đủ điều kiện điều khiển phương tiện là hành vi bị nghiêm cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="53" article="9" chapter="1">
+    <CONVERSATION id="53"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Việc chở hàng hóa vượt quá tải trọng cho phép có vi phạm không?</QUESTION>
             <QUESTION>Có được phép chở hàng vượt quá quy định về tải trọng không?</QUESTION>
@@ -708,11 +726,12 @@
             <QUESTION>Chở hàng không đúng tải trọng quy định có vi phạm luật không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Có. Việc chở hàng vượt quá khối lượng, tải trọng, kích thước cho phép khi chưa
-                được cấp phép là hành vi vi phạm.</ANSWER>
+            <ANSWER>Có. Việc chở hàng vượt quá khối lượng, tải trọng, kích thước cho phép khi chưa được cấp phép là hành vi vi phạm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="54" article="9" chapter="1">
+    <CONVERSATION id="54"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Có được phép lắp đặt đèn, còi gây mất trật tự giao thông không?</QUESTION>
             <QUESTION>Lắp đèn chớp, còi to trên xe khi tham gia giao thông có được cho phép không?</QUESTION>
@@ -720,11 +739,12 @@
             <QUESTION>Lái xe gắn thiết bị gây ồn có bị xử phạt không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng gây mất an toàn giao thông
-                là hành vi bị cấm.</ANSWER>
+            <ANSWER>Không. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng gây mất an toàn giao thông là hành vi bị cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="55" article="9" chapter="1">
+    <CONVERSATION id="55"
+        article="9"
+        chapter="1">
         <QUESTIONS>
             <QUESTION>Có được làm giả hoặc sử dụng biển số xe không hợp lệ không?</QUESTION>
             <QUESTION>Việc mua bán biển số xe giả có vi phạm không?</QUESTION>
@@ -732,67 +752,64 @@
             <QUESTION>Che lấp biển số xe khi tham gia giao thông có hợp pháp không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Mọi hành vi sản xuất, sử dụng, mua bán biển số xe trái phép hoặc che lấp,
-                làm sai lệch biển số đều bị nghiêm cấm.</ANSWER>
+            <ANSWER>Không. Mọi hành vi sản xuất, sử dụng, mua bán biển số xe trái phép hoặc che lấp, làm sai lệch biển số đều bị nghiêm cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="56" article="9" chapter="1">
+    <CONVERSATION id="56"
+        article="9"
+        chapter="1">
         <QUESTIONS>
-            <QUESTION>Sau khi gây tai nạn giao thông, người điều khiển có được phép rời khỏi hiện
-                trường không?</QUESTION>
+            <QUESTION>Sau khi gây tai nạn giao thông, người điều khiển có được phép rời khỏi hiện trường không?</QUESTION>
             <QUESTION>Có vi phạm không nếu bỏ trốn sau khi gây tai nạn?</QUESTION>
             <QUESTION>Khi gặp tai nạn giao thông, người liên quan có được rời đi không?</QUESTION>
             <QUESTION>Có trách nhiệm gì khi gây tai nạn mà không hỗ trợ người bị nạn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Bỏ trốn sau khi gây tai nạn hoặc không cứu giúp người bị nạn khi có điều
-                kiện là hành vi bị cấm.</ANSWER>
+            <ANSWER>Không. Bỏ trốn sau khi gây tai nạn hoặc không cứu giúp người bị nạn khi có điều kiện là hành vi bị cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="57" article="10" chapter="2">
+    <CONVERSATION id="57"
+        article="10"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người tham gia giao thông đường bộ cần tuân thủ những nguyên tắc nào khi di
-                chuyển?</QUESTION>
+            <QUESTION>Người tham gia giao thông đường bộ cần tuân thủ những nguyên tắc nào khi di chuyển?</QUESTION>
             <QUESTION>Khi tham gia giao thông, người đi đường cần tuân thủ những quy tắc gì?</QUESTION>
             <QUESTION>Người đi bộ và người lái xe phải chấp hành những quy định nào trên đường?</QUESTION>
             <QUESTION>Có những yêu cầu nào khi di chuyển trên đường bộ?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người tham gia giao thông đường bộ phải đi bên phải theo chiều đi của mình, đi
-                đúng làn đường, phần đường quy định, chấp hành báo hiệu đường bộ và các quy tắc giao
-                thông khác.</ANSWER>
+            <ANSWER>Người tham gia giao thông đường bộ phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định, chấp hành báo hiệu đường bộ và các quy tắc giao thông khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="58" article="10" chapter="2">
+    <CONVERSATION id="58"
+        article="10"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người lái xe và hành khách trên ô tô cần làm gì để đảm bảo an toàn khi di
-                chuyển?</QUESTION>
-            <QUESTION>Khi ngồi trên ô tô, người lái xe và hành khách cần chú ý điều gì để đảm bảo an
-                toàn?</QUESTION>
+            <QUESTION>Người lái xe và hành khách trên ô tô cần làm gì để đảm bảo an toàn khi di chuyển?</QUESTION>
+            <QUESTION>Khi ngồi trên ô tô, người lái xe và hành khách cần chú ý điều gì để đảm bảo an toàn?</QUESTION>
             <QUESTION>Có bắt buộc phải thắt dây đai an toàn khi đi ô tô không?</QUESTION>
             <QUESTION>Người ngồi trên ô tô cần làm gì để tuân thủ quy tắc an toàn giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe và người được chở trên xe ô tô phải thắt dây đai an toàn tại những
-                chỗ có trang bị dây đai an toàn khi tham gia giao thông.</ANSWER>
+            <ANSWER>Người lái xe và người được chở trên xe ô tô phải thắt dây đai an toàn tại những chỗ có trang bị dây đai an toàn khi tham gia giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="59" article="10" chapter="2">
+    <CONVERSATION id="59"
+        article="10"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Khi chở trẻ em dưới 10 tuổi trên ô tô, người lái xe cần tuân thủ những quy
-                định nào?</QUESTION>
+            <QUESTION>Khi chở trẻ em dưới 10 tuổi trên ô tô, người lái xe cần tuân thủ những quy định nào?</QUESTION>
             <QUESTION>Có quy định gì khi chở trẻ em dưới 10 tuổi trên xe ô tô không?</QUESTION>
-            <QUESTION>Người lái xe phải làm gì để đảm bảo an toàn cho trẻ em khi di chuyển bằng ô
-                tô?</QUESTION>
+            <QUESTION>Người lái xe phải làm gì để đảm bảo an toàn cho trẻ em khi di chuyển bằng ô tô?</QUESTION>
             <QUESTION>Khi chở trẻ nhỏ trên ô tô, vị trí ngồi của trẻ em có bị hạn chế không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên ô tô, không được cho
-                trẻ ngồi cùng hàng ghế với người lái xe (trừ trường hợp xe chỉ có một hàng ghế).
-                Người lái xe phải sử dụng và hướng dẫn trẻ em sử dụng thiết bị an toàn phù hợp.</ANSWER>
+            <ANSWER>Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên ô tô, không được cho trẻ ngồi cùng hàng ghế với người lái xe (trừ trường hợp xe chỉ có một hàng ghế). Người lái xe phải sử dụng và hướng dẫn trẻ em sử dụng thiết bị an toàn phù hợp.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="60" article="11" chapter="2">
+    <CONVERSATION id="60"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Báo hiệu đường bộ bao gồm những loại nào?</QUESTION>
             <QUESTION>Có những loại báo hiệu nào trong giao thông đường bộ?</QUESTION>
@@ -800,54 +817,51 @@
             <QUESTION>Báo hiệu giao thông trên đường bộ được chia thành mấy loại?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông, đèn tín
-                hiệu giao thông, biển báo hiệu đường bộ, vạch kẻ đường và các dấu hiệu khác trên mặt
-                đường, cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km,
-                cọc H, thiết bị âm thanh báo hiệu đường bộ.</ANSWER>
+            <ANSWER>Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông, đèn tín hiệu giao thông, biển báo hiệu đường bộ, vạch kẻ đường và các dấu hiệu khác trên mặt đường, cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H, thiết bị âm thanh báo hiệu đường bộ.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="61" article="11" chapter="2">
+    <CONVERSATION id="61"
+        article="11"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người tham gia giao thông phải tuân thủ thứ tự ưu tiên của các báo hiệu như
-                thế nào?</QUESTION>
-            <QUESTION>Khi gặp nhiều loại báo hiệu cùng lúc, người tham gia giao thông phải chấp hành
-                theo thứ tự nào?</QUESTION>
-            <QUESTION>Nếu biển báo và đèn tín hiệu có mâu thuẫn, người đi đường phải tuân theo báo
-                hiệu nào trước?</QUESTION>
+            <QUESTION>Người tham gia giao thông phải tuân thủ thứ tự ưu tiên của các báo hiệu như thế nào?</QUESTION>
+            <QUESTION>Khi gặp nhiều loại báo hiệu cùng lúc, người tham gia giao thông phải chấp hành theo thứ tự nào?</QUESTION>
+            <QUESTION>Nếu biển báo và đèn tín hiệu có mâu thuẫn, người đi đường phải tuân theo báo hiệu nào trước?</QUESTION>
             <QUESTION>Thứ tự ưu tiên khi chấp hành báo hiệu giao thông là gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người tham gia giao thông phải chấp hành báo hiệu theo thứ tự ưu tiên từ trên
-                xuống dưới như sau:
-
-                Hiệu lệnh của người điều khiển giao thông
-                Tín hiệu đèn giao thông
-                Biển báo hiệu đường bộ
-                Vạch kẻ đường và các dấu hiệu khác trên mặt đường
-                Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H
-                Thiết bị âm thanh báo hiệu đường bộ</ANSWER>
+            <ANSWER>
+                Người tham gia giao thông phải chấp hành báo hiệu theo thứ tự ưu tiên từ trên xuống dưới như sau:
+                - Hiệu lệnh của người điều khiển giao thông
+                - Tín hiệu đèn giao thông
+                - Biển báo hiệu đường bộ
+                - Vạch kẻ đường và các dấu hiệu khác trên mặt đường
+                - Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H
+                - Thiết bị âm thanh báo hiệu đường bộ
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="62" article="11" chapter="2">
+    <CONVERSATION id="62"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Hiệu lệnh của người điều khiển giao thông được quy định như thế nào?</QUESTION>
             <QUESTION>Người điều khiển giao thông ra hiệu lệnh như thế nào?</QUESTION>
-            <QUESTION>Khi thấy cảnh sát giao thông ra hiệu lệnh, người tham gia giao thông cần hiểu
-                ra sao?</QUESTION>
+            <QUESTION>Khi thấy cảnh sát giao thông ra hiệu lệnh, người tham gia giao thông cần hiểu ra sao?</QUESTION>
             <QUESTION>Hiệu lệnh của người điều khiển giao thông có ý nghĩa gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Hiệu lệnh của người điều khiển giao thông được quy định như sau:
-
-                Tay bên phải giơ thẳng đứng: Tất cả các hướng phải dừng lại.
-                Hai tay hoặc một tay dang ngang: Người tham gia giao thông ở phía trước và phía sau
-                phải dừng, phía bên phải và bên trái được đi.
-                Tay bên phải giơ về phía trước: Người ở phía sau và bên phải phải dừng, người phía
-                trước được rẽ phải, người phía bên trái được đi mọi hướng; người đi bộ phải đi sau
-                lưng người điều khiển giao thông.</ANSWER>
+            <ANSWER>
+                Hiệu lệnh của người điều khiển giao thông được quy định như sau:
+                - Tay bên phải giơ thẳng đứng: Tất cả các hướng phải dừng lại.
+                - Hai tay hoặc một tay dang ngang: Người tham gia giao thông ở phía trước và phía sau phải dừng, phía bên phải và bên trái được đi.
+                - Tay bên phải giơ về phía trước: Người ở phía sau và bên phải phải dừng, người phía trước được rẽ phải, người phía bên trái được đi mọi hướng; người đi bộ phải đi sau lưng người điều khiển giao thông.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="63" article="11" chapter="2">
+    <CONVERSATION id="63"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Đèn tín hiệu giao thông có mấy màu và ý nghĩa của từng màu là gì?</QUESTION>
             <QUESTION>Khi tham gia giao thông, đèn xanh, vàng, đỏ có ý nghĩa gì?</QUESTION>
@@ -855,34 +869,37 @@
             <QUESTION>Người đi đường phải làm gì khi đèn tín hiệu chuyển màu?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Đèn tín hiệu giao thông có 3 màu:
-
-                Xanh: Được đi; phải nhường đường cho người đi bộ, xe lăn đang di chuyển.
-                Vàng: Phải dừng trước vạch dừng; nếu đã vượt vạch được đi tiếp; đèn vàng nhấp nháy
-                thì đi chậm, quan sát.
-                Đỏ: Cấm đi.</ANSWER>
+            <ANSWER>
+                Đèn tín hiệu giao thông có 3 màu:
+                - Xanh: Được đi; phải nhường đường cho người đi bộ, xe lăn đang di chuyển.
+                - Vàng: Phải dừng trước vạch dừng; nếu đã vượt vạch được đi tiếp; đèn vàng nhấp nháy thì đi chậm, quan sát.
+                - Đỏ: Cấm đi.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="64" article="11" chapter="2">
+    <CONVERSATION id="64"
+        article="11"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng
-                loại?</QUESTION>
-            <QUESTION>Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng
-                loại?</QUESTION>
+            <QUESTION>Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng loại?</QUESTION>
+            <QUESTION>Biển báo hiệu đường bộ được phân thành những loại nào và chức năng của từng loại?</QUESTION>
             <QUESTION>Biển báo giao thông được chia làm mấy loại?</QUESTION>
             <QUESTION>Người tham gia giao thông cần hiểu các loại biển báo như thế nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Biển báo hiệu đường bộ gồm:
-
-                Biển báo cấm: Thể hiện các điều cấm.
-                Biển báo nguy hiểm: Cảnh báo nguy hiểm.
-                Biển hiệu lệnh: Thể hiện lệnh phải thi hành.
-                Biển chỉ dẫn: Chỉ hướng đi và thông tin cần biết.
-                Biển phụ: Thuyết minh bổ sung cho các biển khác.</ANSWER>
+            <ANSWER>
+                Biển báo hiệu đường bộ gồm:
+                - Biển báo cấm: Thể hiện các điều cấm.
+                - Biển báo nguy hiểm: Cảnh báo nguy hiểm.
+                - Biển hiệu lệnh: Thể hiện lệnh phải thi hành.
+                - Biển chỉ dẫn: Chỉ hướng đi và thông tin cần biết.
+                - Biển phụ: Thuyết minh bổ sung cho các biển khác.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="65" article="11" chapter="2">
+    <CONVERSATION id="65"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Vạch kẻ đường có tác dụng gì trong giao thông?</QUESTION>
             <QUESTION>Vạch kẻ đường giúp người tham gia giao thông như thế nào?</QUESTION>
@@ -890,38 +907,38 @@
             <QUESTION>Khi lái xe, người điều khiển phải chú ý gì đến vạch kẻ đường?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Vạch kẻ đường phân chia làn đường, xác định vị trí, hướng đi, và vị trí dừng cho
-                phương tiện.</ANSWER>
+            <ANSWER>Vạch kẻ đường phân chia làn đường, xác định vị trí, hướng đi, và vị trí dừng cho phương tiện.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="66" article="11" chapter="2">
+    <CONVERSATION id="66"
+        article="11"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Cọc tiêu, tường bảo vệ, rào chắn và các thiết bị khác giúp gì cho người tham
-                gia giao thông?</QUESTION>
+            <QUESTION>Cọc tiêu, tường bảo vệ, rào chắn và các thiết bị khác giúp gì cho người tham gia giao thông?</QUESTION>
             <QUESTION>Tại sao cần lắp cọc tiêu và tường bảo vệ trên đường?</QUESTION>
             <QUESTION>Rào chắn và cọc tiêu có tác dụng gì khi tham gia giao thông?</QUESTION>
             <QUESTION>Các thiết bị hỗ trợ an toàn trên đường có vai trò ra sao?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Cọc tiêu, tường bảo vệ giúp người tham gia giao thông xác định phạm vi an toàn
-                và hướng đi; rào chắn ngăn cản người, phương tiện di chuyển vào khu vực cấm.</ANSWER>
+            <ANSWER>Cọc tiêu, tường bảo vệ giúp người tham gia giao thông xác định phạm vi an toàn và hướng đi; rào chắn ngăn cản người, phương tiện di chuyển vào khu vực cấm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="67" article="11" chapter="2">
+    <CONVERSATION id="67"
+        article="11"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người tham gia giao thông phải làm gì khi gặp biển báo cố định và biển báo tạm
-                thời có mâu thuẫn?</QUESTION>
-            <QUESTION>Nếu gặp biển báo tạm thời và cố định khác nhau, người đi đường nên tuân theo
-                biển nào?</QUESTION>
+            <QUESTION>Người tham gia giao thông phải làm gì khi gặp biển báo cố định và biển báo tạm thời có mâu thuẫn?</QUESTION>
+            <QUESTION>Nếu gặp biển báo tạm thời và cố định khác nhau, người đi đường nên tuân theo biển nào?</QUESTION>
             <QUESTION>Khi biển báo tạm thời và biển cố định không giống nhau, xử lý thế nào?</QUESTION>
-            <QUESTION>Trường hợp biển báo có sự mâu thuẫn, người tham gia giao thông cần tuân theo
-                đâu?</QUESTION>
+            <QUESTION>Trường hợp biển báo có sự mâu thuẫn, người tham gia giao thông cần tuân theo đâu?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
             <ANSWER>Người tham gia giao thông phải chấp hành biển báo hiệu tạm thời.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="68" article="11" chapter="2">
+    <CONVERSATION id="68"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Thiết bị âm thanh báo hiệu đường bộ có chức năng gì?</QUESTION>
             <QUESTION>Khi nghe thấy âm thanh cảnh báo trên đường, người đi đường cần làm gì?</QUESTION>
@@ -932,7 +949,9 @@
             <ANSWER>Thiết bị âm thanh giúp cảnh báo nguy hiểm cho người tham gia giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="69" article="11" chapter="2">
+    <CONVERSATION id="69"
+        article="11"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Cột Km và cọc H trên đường giúp người đi đường nắm được thông tin gì?</QUESTION>
             <QUESTION>Cột Km và cọc H có ý nghĩa gì khi di chuyển trên đường?</QUESTION>
@@ -940,109 +959,103 @@
             <QUESTION>Người lái xe cần chú ý gì đến cột Km và cọc H?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Chúng cung cấp thông tin về vị trí, khoảng cách và các dữ liệu liên quan đến
-                đường bộ.</ANSWER>
+            <ANSWER>Chúng cung cấp thông tin về vị trí, khoảng cách và các dữ liệu liên quan đến đường bộ.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="70" article="12" chapter="2">
+    <CONVERSATION id="70"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người lái xe cần tuân thủ quy định gì về tốc độ và khoảng cách khi tham gia
-                giao thông?</QUESTION>
-            <QUESTION>Khi tham gia giao thông, người điều khiển phương tiện phải chú ý điều gì về
-                tốc độ và khoảng cách?</QUESTION>
-            <QUESTION>Quy định về tốc độ và khoảng cách an toàn giữa các xe được áp dụng như thế
-                nào?</QUESTION>
+            <QUESTION>Người lái xe cần tuân thủ quy định gì về tốc độ và khoảng cách khi tham gia giao thông?</QUESTION>
+            <QUESTION>Khi tham gia giao thông, người điều khiển phương tiện phải chú ý điều gì về tốc độ và khoảng cách?</QUESTION>
+            <QUESTION>Quy định về tốc độ và khoảng cách an toàn giữa các xe được áp dụng như thế nào?</QUESTION>
             <QUESTION>Người lái xe phải đảm bảo tốc độ và khoảng cách ra sao khi lưu thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe và người điều khiển xe máy chuyên dùng phải tuân thủ quy định về
-                tốc độ và giữ khoảng cách an toàn tối thiểu với xe phía trước cùng làn hoặc phần
-                đường.</ANSWER>
+            <ANSWER>Người lái xe và người điều khiển xe máy chuyên dùng phải tuân thủ quy định về tốc độ và giữ khoảng cách an toàn tối thiểu với xe phía trước cùng làn hoặc phần đường.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="71" article="12" chapter="2">
+    <CONVERSATION id="71"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người điều khiển phương tiện cần điều chỉnh tốc độ như thế nào để đảm bảo an
-                toàn?</QUESTION>
+            <QUESTION>Người điều khiển phương tiện cần điều chỉnh tốc độ như thế nào để đảm bảo an toàn?</QUESTION>
             <QUESTION>Khi nào người lái xe cần giảm tốc độ để đảm bảo an toàn?</QUESTION>
             <QUESTION>Người tham gia giao thông phải chú ý điều gì về tốc độ phù hợp?</QUESTION>
             <QUESTION>Trong điều kiện nào người lái xe cần điều chỉnh tốc độ?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải điều chỉnh tốc độ phù hợp với điều kiện cầu,
-                đường, mật độ giao thông, địa hình, thời tiết và các yếu tố khác để đảm bảo an toàn.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải điều chỉnh tốc độ phù hợp với điều kiện cầu, đường, mật độ giao thông, địa hình, thời tiết và các yếu tố khác để đảm bảo an toàn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="72" article="12" chapter="2">
+    <CONVERSATION id="72"
+        article="12"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi gặp người đi bộ qua đường, người điều khiển phương tiện cần làm gì?</QUESTION>
             <QUESTION>Người lái xe cần xử lý thế nào khi gặp người đi bộ qua đường?</QUESTION>
-            <QUESTION>Nếu thấy người đi bộ hoặc xe lăn đang qua đường, người điều khiển phương tiện
-                phải làm gì?</QUESTION>
-            <QUESTION>Trong tình huống người đi bộ đang sang đường, người điều khiển xe cần chú ý
-                gì?</QUESTION>
+            <QUESTION>Nếu thấy người đi bộ hoặc xe lăn đang qua đường, người điều khiển phương tiện phải làm gì?</QUESTION>
+            <QUESTION>Trong tình huống người đi bộ đang sang đường, người điều khiển xe cần chú ý gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải quan sát, giảm tốc độ hoặc dừng lại khi gặp
-                người đi bộ, xe lăn của người khuyết tật đang qua đường hoặc tại nơi có vạch kẻ
-                đường dành cho người đi bộ.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải quan sát, giảm tốc độ hoặc dừng lại khi gặp người đi bộ, xe lăn của người khuyết tật đang qua đường hoặc tại nơi có vạch kẻ đường dành cho người đi bộ.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="73" article="12" chapter="2">
+    <CONVERSATION id="73"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Khi gặp chướng ngại vật hoặc biển báo nguy hiểm trên đường, người lái xe cần
-                xử lý thế nào?</QUESTION>
+            <QUESTION>Khi gặp chướng ngại vật hoặc biển báo nguy hiểm trên đường, người lái xe cần xử lý thế nào?</QUESTION>
             <QUESTION>Người điều khiển phương tiện nên làm gì khi có vật cản hoặc biển cảnh báo?</QUESTION>
             <QUESTION>Nếu gặp báo hiệu nguy hiểm trên đường, người lái xe cần chú ý gì?</QUESTION>
             <QUESTION>Khi phát hiện chướng ngại vật phía trước, tài xế phải ứng phó ra sao?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe phải quan sát, giảm tốc độ hoặc dừng lại để đảm bảo an toàn khi gặp
-                biển cảnh báo nguy hiểm hoặc chướng ngại vật trên đường.</ANSWER>
+            <ANSWER>Người lái xe phải quan sát, giảm tốc độ hoặc dừng lại để đảm bảo an toàn khi gặp biển cảnh báo nguy hiểm hoặc chướng ngại vật trên đường.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="74" article="12" chapter="2">
+    <CONVERSATION id="74"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người lái xe cần chú ý điều gì khi đi qua khu vực trường học, bệnh viện, chợ
-                hay nơi đông dân cư?</QUESTION>
+            <QUESTION>Người lái xe cần chú ý điều gì khi đi qua khu vực trường học, bệnh viện, chợ hay nơi đông dân cư?</QUESTION>
             <QUESTION>Khi di chuyển gần trường học, bệnh viện, người lái xe cần làm gì?</QUESTION>
             <QUESTION>Trong khu vực đông người, tài xế phải điều chỉnh tốc độ ra sao?</QUESTION>
             <QUESTION>Người điều khiển phương tiện cần chú ý điều gì khi đi qua khu dân cư?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, quan sát kỹ và dừng lại khi cần
-                thiết khi đi qua khu vực trường học, bệnh viện, chợ, nơi đông dân cư hoặc công trình
-                công cộng.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, quan sát kỹ và dừng lại khi cần thiết khi đi qua khu vực trường học, bệnh viện, chợ, nơi đông dân cư hoặc công trình công cộng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="75" article="12" chapter="2">
+    <CONVERSATION id="75"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người lái xe cần làm gì khi gặp xe vận chuyển hàng siêu trường, siêu trọng
-                hoặc đoàn người đi bộ?</QUESTION>
-            <QUESTION>Khi thấy xe chở hàng nguy hiểm hoặc đoàn người đi bộ, tài xế phải xử lý thế
-                nào?</QUESTION>
+            <QUESTION>Người lái xe cần làm gì khi gặp xe vận chuyển hàng siêu trường, siêu trọng hoặc đoàn người đi bộ?</QUESTION>
+            <QUESTION>Khi thấy xe chở hàng nguy hiểm hoặc đoàn người đi bộ, tài xế phải xử lý thế nào?</QUESTION>
             <QUESTION>Người điều khiển phương tiện phải làm gì khi gặp xe siêu trường, siêu trọng?</QUESTION>
             <QUESTION>Trong trường hợp gặp đoàn người đi bộ, người lái xe nên chú ý điều gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe cần giảm tốc độ, giữ khoảng cách an toàn và nhường đường khi gặp xe
-                vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm hoặc đoàn người đi bộ.</ANSWER>
+            <ANSWER>Người lái xe cần giảm tốc độ, giữ khoảng cách an toàn và nhường đường khi gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm hoặc đoàn người đi bộ.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="76" article="12" chapter="2">
+    <CONVERSATION id="76"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Khi thời tiết xấu như mưa, sương mù hoặc mặt đường trơn trượt, người điều
-                khiển xe cần làm gì?</QUESTION>
+            <QUESTION>Khi thời tiết xấu như mưa, sương mù hoặc mặt đường trơn trượt, người điều khiển xe cần làm gì?</QUESTION>
             <QUESTION>Trong điều kiện thời tiết bất lợi, người lái xe nên xử lý ra sao?</QUESTION>
             <QUESTION>Mặt đường trơn trượt hoặc có sương mù, người tham gia giao thông cần chú ý gì?</QUESTION>
             <QUESTION>Khi lái xe trời mưa hoặc có bụi, người điều khiển phải làm gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, quan sát kỹ và giữ khoảng cách an
-                toàn khi gặp mưa, gió, sương, bụi hoặc đường trơn trượt, lầy lội.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, quan sát kỹ và giữ khoảng cách an toàn khi gặp mưa, gió, sương, bụi hoặc đường trơn trượt, lầy lội.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="77" article="12" chapter="2">
+    <CONVERSATION id="77"
+        article="12"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người lái xe cần chú ý gì khi đi qua nơi đường giao nhau hoặc đường sắt?</QUESTION>
             <QUESTION>Khi tới giao lộ hoặc nơi giao với đường sắt, người lái xe nên làm gì?</QUESTION>
@@ -1050,11 +1063,12 @@
             <QUESTION>Người điều khiển phương tiện cần làm gì khi băng qua đường sắt?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe phải quan sát, giảm tốc độ và dừng lại khi cần thiết tại nơi đường
-                bộ giao nhau, đường sắt hoặc các vị trí có tầm nhìn bị hạn chế.</ANSWER>
+            <ANSWER>Người lái xe phải quan sát, giảm tốc độ và dừng lại khi cần thiết tại nơi đường bộ giao nhau, đường sắt hoặc các vị trí có tầm nhìn bị hạn chế.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="78" article="12" chapter="2">
+    <CONVERSATION id="78"
+        article="12"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người điều khiển phương tiện cần làm gì khi xe phía sau xin vượt?</QUESTION>
             <QUESTION>Khi có xe xin vượt từ phía sau, người lái xe phải xử lý thế nào?</QUESTION>
@@ -1062,25 +1076,25 @@
             <QUESTION>Người tham gia giao thông cần chú ý gì khi bị xe khác xin đường?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe cần giảm tốc độ, giữ khoảng cách và tạo điều kiện cho xe phía sau
-                vượt an toàn.</ANSWER>
+            <ANSWER>Người lái xe cần giảm tốc độ, giữ khoảng cách và tạo điều kiện cho xe phía sau vượt an toàn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="79" article="12" chapter="2">
+    <CONVERSATION id="79"
+        article="12"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Trong khu vực kiểm soát giao thông hoặc đang xử lý tai nạn, người tham gia
-                giao thông cần chú ý điều gì?</QUESTION>
+            <QUESTION>Trong khu vực kiểm soát giao thông hoặc đang xử lý tai nạn, người tham gia giao thông cần chú ý điều gì?</QUESTION>
             <QUESTION>Khi gặp lực lượng chức năng kiểm soát giao thông, người lái xe phải làm gì?</QUESTION>
             <QUESTION>Nếu đang đi vào khu vực xử lý tai nạn, tài xế nên chú ý điều gì?</QUESTION>
             <QUESTION>Người điều khiển phương tiện cần ứng xử ra sao tại hiện trường tai nạn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, tuân thủ hướng dẫn của lực lượng
-                chức năng và đảm bảo an toàn khi đi qua khu vực kiểm soát giao thông hoặc hiện
-                trường tai nạn.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải giảm tốc độ, tuân thủ hướng dẫn của lực lượng chức năng và đảm bảo an toàn khi đi qua khu vực kiểm soát giao thông hoặc hiện trường tai nạn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="80" article="13" chapter="2">
+    <CONVERSATION id="80"
+        article="13"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Phương tiện di chuyển với tốc độ chậm phải đi như thế nào để đảm bảo an toàn?</QUESTION>
             <QUESTION>Xe đi chậm cần tuân thủ quy tắc gì khi tham gia giao thông?</QUESTION>
@@ -1088,11 +1102,12 @@
             <QUESTION>Phương tiện chạy chậm phải đi ở vị trí nào trên đường?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Phương tiện di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của
-                mình để đảm bảo an toàn và không cản trở giao thông.</ANSWER>
+            <ANSWER>Phương tiện di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình để đảm bảo an toàn và không cản trở giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="81" article="13" chapter="2">
+    <CONVERSATION id="81"
+        article="13"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi nào người lái xe được phép chuyển làn đường?</QUESTION>
             <QUESTION>Người điều khiển phương tiện cần lưu ý gì khi chuyển làn đường?</QUESTION>
@@ -1100,25 +1115,25 @@
             <QUESTION>Khi muốn đổi làn đường, tài xế phải tuân thủ quy tắc gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện chỉ được chuyển làn ở những nơi cho phép, mỗi lần
-                chuyển sang một làn liền kề, phải bật tín hiệu báo trước và quan sát để đảm bảo
-                khoảng cách an toàn với các xe xung quanh.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện chỉ được chuyển làn ở những nơi cho phép, mỗi lần chuyển sang một làn liền kề, phải bật tín hiệu báo trước và quan sát để đảm bảo khoảng cách an toàn với các xe xung quanh.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="82" article="13" chapter="2">
+    <CONVERSATION id="82"
+        article="13"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Xe thô sơ và xe cơ giới phải đi ở làn đường nào trên một chiều đường có vạch
-                phân làn?</QUESTION>
+            <QUESTION>Xe thô sơ và xe cơ giới phải đi ở làn đường nào trên một chiều đường có vạch phân làn?</QUESTION>
             <QUESTION>Khi đường có phân làn, xe đạp và xe máy đi ở làn nào?</QUESTION>
             <QUESTION>Xe thô sơ và xe cơ giới cần tuân thủ quy định gì về làn đường?</QUESTION>
             <QUESTION>Trên đường có vạch kẻ làn, người điều khiển xe phải di chuyển ở đâu?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trên một chiều đường có vạch kẻ phân làn, xe thô sơ phải đi trên làn đường bên
-                phải trong cùng, còn xe cơ giới và xe máy chuyên dùng đi trên làn bên trái.</ANSWER>
+            <ANSWER>Trên một chiều đường có vạch kẻ phân làn, xe thô sơ phải đi trên làn đường bên phải trong cùng, còn xe cơ giới và xe máy chuyên dùng đi trên làn bên trái.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="83" article="13" chapter="2">
+    <CONVERSATION id="83"
+        article="13"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Có được đi sai làn đường dành riêng cho một loại phương tiện không?</QUESTION>
             <QUESTION>Người lái xe có thể đi vào làn dành cho phương tiện khác không?</QUESTION>
@@ -1126,11 +1141,12 @@
             <QUESTION>Việc đi vào làn không đúng với loại phương tiện có được phép không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không. Người điều khiển phương tiện không được đi vào làn đường dành riêng cho
-                loại phương tiện khác hoặc nhóm phương tiện khác.</ANSWER>
+            <ANSWER>Không. Người điều khiển phương tiện không được đi vào làn đường dành riêng cho loại phương tiện khác hoặc nhóm phương tiện khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="84" article="14" chapter="2">
+    <CONVERSATION id="84"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Vượt xe được thực hiện như thế nào trên đường có một làn xe cơ giới?</QUESTION>
             <QUESTION>Người lái xe cần làm gì khi muốn vượt xe trên đường một làn?</QUESTION>
@@ -1138,11 +1154,12 @@
             <QUESTION>Khi nào người điều khiển xe được phép vượt trên đường một làn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trên đường mỗi chiều chỉ có một làn dành cho xe cơ giới, xe muốn vượt phải di
-                chuyển sang bên trái để vượt lên trước xe phía trước.</ANSWER>
+            <ANSWER>Trên đường mỗi chiều chỉ có một làn dành cho xe cơ giới, xe muốn vượt phải di chuyển sang bên trái để vượt lên trước xe phía trước.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="85" article="14" chapter="2">
+    <CONVERSATION id="85"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Xe xin vượt phải đáp ứng những điều kiện nào để được phép vượt?</QUESTION>
             <QUESTION>Khi nào xe đi sau mới được phép vượt?</QUESTION>
@@ -1150,12 +1167,12 @@
             <QUESTION>Người lái xe cần chú ý gì trước khi vượt?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Xe xin vượt chỉ được vượt khi phía trước không có chướng ngại vật, không có xe
-                chạy ngược chiều ở đoạn đường định vượt, xe trước không có tín hiệu xin vượt, đã bật
-                xi-nhan phải và tránh sang bên phải.</ANSWER>
+            <ANSWER>Xe xin vượt chỉ được vượt khi phía trước không có chướng ngại vật, không có xe chạy ngược chiều ở đoạn đường định vượt, xe trước không có tín hiệu xin vượt, đã bật xi-nhan phải và tránh sang bên phải.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="86" article="14" chapter="2">
+    <CONVERSATION id="86"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người điều khiển xe phía trước phải làm gì khi có xe xin vượt?</QUESTION>
             <QUESTION>Khi có xe xin vượt, xe phía trước cần ứng xử thế nào?</QUESTION>
@@ -1163,12 +1180,12 @@
             <QUESTION>Xe trước phải làm gì để hỗ trợ xe sau vượt an toàn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển xe phía trước phải quan sát, nếu đủ an toàn thì giảm tốc độ,
-                bật xi-nhan phải và đi sát lề phải để nhường đường. Nếu không an toàn, phải bật
-                xi-nhan trái báo hiệu cho xe sau biết không được vượt.</ANSWER>
+            <ANSWER>Người điều khiển xe phía trước phải quan sát, nếu đủ an toàn thì giảm tốc độ, bật xi-nhan phải và đi sát lề phải để nhường đường. Nếu không an toàn, phải bật xi-nhan trái báo hiệu cho xe sau biết không được vượt.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="87" article="14" chapter="2">
+    <CONVERSATION id="87"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Trong trường hợp nào xe được phép vượt bên phải?</QUESTION>
             <QUESTION>Khi nào người lái xe được vượt xe phía trước từ bên phải?</QUESTION>
@@ -1176,12 +1193,12 @@
             <QUESTION>Vượt bên phải có hợp pháp không? Khi nào được thực hiện?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Xe chỉ được phép vượt bên phải khi xe phía trước bật tín hiệu rẽ trái, đang rẽ
-                trái hoặc khi gặp xe chuyên dùng đang làm việc trên đường mà không thể vượt bên
-                trái.</ANSWER>
+            <ANSWER>Xe chỉ được phép vượt bên phải khi xe phía trước bật tín hiệu rẽ trái, đang rẽ trái hoặc khi gặp xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="88" article="14" chapter="2">
+    <CONVERSATION id="88"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Xe xin vượt cần báo hiệu như thế nào?</QUESTION>
             <QUESTION>Khi vượt xe, tài xế phải sử dụng tín hiệu gì?</QUESTION>
@@ -1189,11 +1206,12 @@
             <QUESTION>Có quy định gì về tín hiệu khi xin vượt?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Xe xin vượt phải bật đèn chiếu sáng nhấp nháy hoặc còi (trừ xe thô sơ không có
-                thiết bị này). Trong đô thị từ 22h đến 5h, chỉ được dùng đèn để xin vượt.</ANSWER>
+            <ANSWER>Xe xin vượt phải bật đèn chiếu sáng nhấp nháy hoặc còi (trừ xe thô sơ không có thiết bị này). Trong đô thị từ 22h đến 5h, chỉ được dùng đèn để xin vượt.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="89" article="14" chapter="2">
+    <CONVERSATION id="89"
+        article="14"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Những trường hợp nào người lái xe không được phép vượt?</QUESTION>
             <QUESTION>Khi nào việc vượt xe bị cấm?</QUESTION>
@@ -1201,16 +1219,19 @@
             <QUESTION>Vượt xe bị cấm khi gặp những điều kiện gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không được vượt khi:
-
-                Không đủ điều kiện an toàn;
-                Trên cầu hẹp một làn, đường cong, đỉnh dốc hạn chế tầm nhìn;
-                Ở nơi giao nhau, đường sắt, hầm;
-                Gặp xe ưu tiên, người đi bộ, xe lăn;
-                Đường trơn trượt, thời tiết xấu.</ANSWER>
+            <ANSWER>
+                Không được vượt khi:
+                - Không đủ điều kiện an toàn;
+                - Trên cầu hẹp một làn, đường cong, đỉnh dốc hạn chế tầm nhìn;
+                - Ở nơi giao nhau, đường sắt, hầm;
+                - Gặp xe ưu tiên, người đi bộ, xe lăn;
+                - Đường trơn trượt, thời tiết xấu.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="90" article="15" chapter="2">
+    <CONVERSATION id="90"
+        article="15"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Chuyển hướng xe được hiểu như thế nào?</QUESTION>
             <QUESTION>Khi nào một phương tiện được coi là đang chuyển hướng?</QUESTION>
@@ -1218,11 +1239,12 @@
             <QUESTION>Thế nào là hành động chuyển hướng khi tham gia giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Chuyển hướng xe là khi người điều khiển xe thực hiện hành động rẽ trái, rẽ phải
-                hoặc quay đầu xe.</ANSWER>
+            <ANSWER>Chuyển hướng xe là khi người điều khiển xe thực hiện hành động rẽ trái, rẽ phải hoặc quay đầu xe.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="91" article="15" chapter="2">
+    <CONVERSATION id="91"
+        article="15"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người lái xe cần làm gì trước khi chuyển hướng?</QUESTION>
             <QUESTION>Trước khi rẽ, người lái xe phải thực hiện những bước nào?</QUESTION>
@@ -1230,13 +1252,12 @@
             <QUESTION>Để đảm bảo an toàn khi chuyển hướng, tài xế phải chú ý điều gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trước khi chuyển hướng, người điều khiển phương tiện phải quan sát, giữ khoảng
-                cách an toàn với xe phía sau, giảm tốc độ, bật tín hiệu báo rẽ (hoặc ra hiệu bằng
-                tay với xe thô sơ), chuyển dần sang làn gần hướng rẽ và chỉ thực hiện khi đã đảm bảo
-                an toàn.</ANSWER>
+            <ANSWER>Trước khi chuyển hướng, người điều khiển phương tiện phải quan sát, giữ khoảng cách an toàn với xe phía sau, giảm tốc độ, bật tín hiệu báo rẽ (hoặc ra hiệu bằng tay với xe thô sơ), chuyển dần sang làn gần hướng rẽ và chỉ thực hiện khi đã đảm bảo an toàn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="92" article="15" chapter="2">
+    <CONVERSATION id="92"
+        article="15"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người điều khiển xe phải nhường đường cho ai khi chuyển hướng?</QUESTION>
             <QUESTION>Khi rẽ, người lái xe cần ưu tiên cho những đối tượng nào?</QUESTION>
@@ -1244,12 +1265,12 @@
             <QUESTION>Người điều khiển xe cần lưu ý gì khi nhường đường lúc rẽ?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Khi chuyển hướng, người điều khiển xe phải nhường đường cho người đi bộ, xe thô
-                sơ, xe đi ngược chiều và chỉ rẽ khi không gây cản trở hay nguy hiểm cho người,
-                phương tiện khác.</ANSWER>
+            <ANSWER>Khi chuyển hướng, người điều khiển xe phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ rẽ khi không gây cản trở hay nguy hiểm cho người, phương tiện khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="93" article="15" chapter="2">
+    <CONVERSATION id="93"
+        article="15"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Trong những trường hợp nào không được quay đầu xe?</QUESTION>
             <QUESTION>Khi nào người lái xe bị cấm quay đầu?</QUESTION>
@@ -1257,17 +1278,19 @@
             <QUESTION>Người lái xe cần tránh quay đầu ở đâu để không vi phạm luật?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Không được quay đầu xe tại:
-
-                Vạch dành cho người đi bộ;
-                Trên cầu, đầu cầu, gầm cầu vượt, ngầm;
-                Đường giao nhau với đường sắt;
-                Đường hẹp, đường dốc, đoạn cong khuất tầm nhìn;
-                Đường cao tốc, hầm đường bộ, đường một chiều (trừ khi có hiệu lệnh hoặc biển báo cho
-                phép).</ANSWER>
+            <ANSWER>
+                Không được quay đầu xe tại:
+                - Vạch dành cho người đi bộ;
+                - Trên cầu, đầu cầu, gầm cầu vượt, ngầm;
+                - Đường giao nhau với đường sắt;
+                - Đường hẹp, đường dốc, đoạn cong khuất tầm nhìn;
+                - Đường cao tốc, hầm đường bộ, đường một chiều (trừ khi có hiệu lệnh hoặc biển báo cho phép).
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="94" article="16" chapter="2">
+    <CONVERSATION id="94"
+        article="16"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người điều khiển phương tiện cần chú ý những gì khi lùi xe để đảm bảo an toàn?</QUESTION>
             <QUESTION>Khi lùi xe, tài xế nên thực hiện những bước nào để tránh gây nguy hiểm?</QUESTION>
@@ -1275,12 +1298,12 @@
             <QUESTION>Có những yếu tố quan trọng nào mà người lái xe phải chú ý đến khi lùi xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện cần quan sát kỹ hai bên và phía sau xe, bật tín
-                hiệu lùi và chỉ thực hiện việc lùi xe khi chắc chắn rằng không gây nguy hiểm cho
-                người khác hay phương tiện xung quanh.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện cần quan sát kỹ hai bên và phía sau xe, bật tín hiệu lùi và chỉ thực hiện việc lùi xe khi chắc chắn rằng không gây nguy hiểm cho người khác hay phương tiện xung quanh.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="95" article="16" chapter="2">
+    <CONVERSATION id="95"
+        article="16"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Có những vị trí nào mà người lái xe không được phép lùi?</QUESTION>
             <QUESTION>Người điều khiển phương tiện cần tránh lùi xe ở những nơi nào?</QUESTION>
@@ -1288,43 +1311,38 @@
             <QUESTION>Khi muốn lùi xe, tài xế nên chú ý tránh những địa điểm nào?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người lái xe không được phép lùi ở các vị trí như: đường một chiều, khu vực cấm
-                dừng, phần đường dành cho người đi bộ, nơi giao nhau giữa các con đường, khu vực
-                giao cắt với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ và trên đường
-                cao tốc.</ANSWER>
+            <ANSWER>Người lái xe không được phép lùi ở các vị trí như: đường một chiều, khu vực cấm dừng, phần đường dành cho người đi bộ, nơi giao nhau giữa các con đường, khu vực giao cắt với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ và trên đường cao tốc.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="96" article="16" chapter="2">
+    <CONVERSATION id="96"
+        article="16"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Vì sao việc quan sát xung quanh khi lùi xe lại quan trọng?</QUESTION>
             <QUESTION>Việc kiểm tra hai bên và phía sau trước khi lùi xe có tác dụng gì?</QUESTION>
             <QUESTION>Lý do gì khiến người lái xe cần quan sát cẩn thận khi lùi?</QUESTION>
-            <QUESTION>Tại sao người điều khiển phương tiện phải để ý xung quanh khi thực hiện lùi
-                xe?</QUESTION>
+            <QUESTION>Tại sao người điều khiển phương tiện phải để ý xung quanh khi thực hiện lùi xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Việc quan sát giúp người lái xe phát hiện các chướng ngại vật, người đi bộ hoặc
-                phương tiện khác, từ đó tránh gây tai nạn và đảm bảo an toàn cho tất cả mọi người
-                tham gia giao thông.</ANSWER>
+            <ANSWER>Việc quan sát giúp người lái xe phát hiện các chướng ngại vật, người đi bộ hoặc phương tiện khác, từ đó tránh gây tai nạn và đảm bảo an toàn cho tất cả mọi người tham gia giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="97" article="17" chapter="2">
+    <CONVERSATION id="97"
+        article="17"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Khi gặp xe đi ngược chiều trên đường không có dải phân cách, người lái xe cần
-                làm gì để đảm bảo an toàn?</QUESTION>
-            <QUESTION>Khi di chuyển trên đường hai chiều không có dải phân cách, tài xế phải xử lý
-                thế nào nếu gặp xe đi ngược chiều?</QUESTION>
-            <QUESTION>Người điều khiển phương tiện cần tuân thủ nguyên tắc nào khi tránh xe đi ngược
-                chiều trên đường không phân làn riêng biệt?</QUESTION>
-            <QUESTION>Làm thế nào để đảm bảo an toàn khi đối diện với một xe khác trên đoạn đường
-                không có vạch chia làn?</QUESTION>
+            <QUESTION>Khi gặp xe đi ngược chiều trên đường không có dải phân cách, người lái xe cần làm gì để đảm bảo an toàn?</QUESTION>
+            <QUESTION>Khi di chuyển trên đường hai chiều không có dải phân cách, tài xế phải xử lý thế nào nếu gặp xe đi ngược chiều?</QUESTION>
+            <QUESTION>Người điều khiển phương tiện cần tuân thủ nguyên tắc nào khi tránh xe đi ngược chiều trên đường không phân làn riêng biệt?</QUESTION>
+            <QUESTION>Làm thế nào để đảm bảo an toàn khi đối diện với một xe khác trên đoạn đường không có vạch chia làn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện cần giảm tốc độ, chủ động đi sát về bên phải theo
-                chiều di chuyển của mình để tránh va chạm và đảm bảo an toàn cho cả hai bên.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện cần giảm tốc độ, chủ động đi sát về bên phải theo chiều di chuyển của mình để tránh va chạm và đảm bảo an toàn cho cả hai bên.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="98" article="17" chapter="2">
+    <CONVERSATION id="98"
+        article="17"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Trong những trường hợp nào một xe phải nhường đường khi tránh xe ngược chiều?</QUESTION>
             <QUESTION>Khi tránh xe đi ngược chiều, trong hoàn cảnh nào tài xế cần nhường đường?</QUESTION>
@@ -1332,61 +1350,56 @@
             <QUESTION>Tình huống nào buộc một xe phải dừng lại hoặc né tránh khi gặp xe đối diện?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Tài xế cần nhường đường trong các trường hợp sau:
-
-                Nếu đường hẹp chỉ đủ cho một xe và có chỗ tránh, xe ở gần chỗ tránh hơn phải nhường
-                đường.
-                Khi đi xuống dốc, xe xuống phải nhường đường cho xe lên dốc.
-                Nếu có chướng ngại vật phía trước, xe gặp chướng ngại vật phải nhường đường cho xe
-                không bị cản trở.</ANSWER>
+            <ANSWER>
+                Tài xế cần nhường đường trong các trường hợp sau:
+                - Nếu đường hẹp chỉ đủ cho một xe và có chỗ tránh, xe ở gần chỗ tránh hơn phải nhường đường.
+                - Khi đi xuống dốc, xe xuống phải nhường đường cho xe lên dốc.
+                - Nếu có chướng ngại vật phía trước, xe gặp chướng ngại vật phải nhường đường cho xe không bị cản trở.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="99" article="18" chapter="2">
+    <CONVERSATION id="99"
+        article="18"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Thế nào là dừng xe và khi dừng xe người lái cần tuân thủ những điều gì?</QUESTION>
             <QUESTION>Khi nào được coi là dừng xe và tài xế phải chú ý điều gì khi dừng xe?</QUESTION>
             <QUESTION>Người lái xe cần thực hiện những yêu cầu nào khi tạm dừng xe trên đường?</QUESTION>
-            <QUESTION>Dừng xe khác gì với việc đỗ xe và người điều khiển phương tiện cần lưu ý gì
-                khi dừng xe?</QUESTION>
+            <QUESTION>Dừng xe khác gì với việc đỗ xe và người điều khiển phương tiện cần lưu ý gì khi dừng xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Dừng xe là trạng thái xe đứng yên tạm thời để cho người lên xuống xe, xếp dỡ
-                hàng hoặc kiểm tra xe. Khi dừng xe, người lái không được tắt máy, không rời khỏi vị
-                trí lái trừ khi cần đóng, mở cửa, xếp dỡ hàng hay kiểm tra xe, nhưng phải dùng phanh
-                đỗ hoặc biện pháp an toàn khác.</ANSWER>
+            <ANSWER>Dừng xe là trạng thái xe đứng yên tạm thời để cho người lên xuống xe, xếp dỡ hàng hoặc kiểm tra xe. Khi dừng xe, người lái không được tắt máy, không rời khỏi vị trí lái trừ khi cần đóng, mở cửa, xếp dỡ hàng hay kiểm tra xe, nhưng phải dùng phanh đỗ hoặc biện pháp an toàn khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="100" article="18" chapter="2">
+    <CONVERSATION id="100"
+        article="18"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Đỗ xe được hiểu như thế nào và người lái cần làm gì để đảm bảo an toàn khi đỗ
-                xe?</QUESTION>
+            <QUESTION>Đỗ xe được hiểu như thế nào và người lái cần làm gì để đảm bảo an toàn khi đỗ xe?</QUESTION>
             <QUESTION>Khi nào việc dừng xe được coi là đỗ xe và người lái cần lưu ý gì?</QUESTION>
             <QUESTION>Người điều khiển phương tiện phải đảm bảo an toàn ra sao khi đỗ xe?</QUESTION>
             <QUESTION>Để tránh nguy hiểm, người lái cần thực hiện những biện pháp nào khi đỗ xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Đỗ xe là trạng thái xe đứng yên không giới hạn thời gian. Người lái chỉ được rời
-                khỏi xe sau khi đã kéo phanh tay hoặc dùng biện pháp an toàn khác. Nếu đỗ trên dốc,
-                cần đánh lái về phía lề đường và chèn bánh để tránh trôi xe.</ANSWER>
+            <ANSWER>Đỗ xe là trạng thái xe đứng yên không giới hạn thời gian. Người lái chỉ được rời khỏi xe sau khi đã kéo phanh tay hoặc dùng biện pháp an toàn khác. Nếu đỗ trên dốc, cần đánh lái về phía lề đường và chèn bánh để tránh trôi xe.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="101" article="18" chapter="2">
+    <CONVERSATION id="101"
+        article="18"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người điều khiển xe phải làm gì khi ra vào vị trí dừng, đỗ xe để không ảnh
-                hưởng đến giao thông?</QUESTION>
-            <QUESTION>Khi dừng hoặc đỗ xe, tài xế cần tuân thủ những quy định nào để đảm bảo an toàn
-                cho người khác?</QUESTION>
-            <QUESTION>Làm thế nào để không gây cản trở khi di chuyển vào hoặc ra khỏi vị trí dừng,
-                đỗ xe?</QUESTION>
+            <QUESTION>Người điều khiển xe phải làm gì khi ra vào vị trí dừng, đỗ xe để không ảnh hưởng đến giao thông?</QUESTION>
+            <QUESTION>Khi dừng hoặc đỗ xe, tài xế cần tuân thủ những quy định nào để đảm bảo an toàn cho người khác?</QUESTION>
+            <QUESTION>Làm thế nào để không gây cản trở khi di chuyển vào hoặc ra khỏi vị trí dừng, đỗ xe?</QUESTION>
             <QUESTION>Người lái xe cần báo hiệu ra sao khi muốn dừng hoặc đỗ xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải bật tín hiệu báo cho các phương tiện khác biết
-                khi ra, vào vị trí dừng, đỗ và đảm bảo không làm ảnh hưởng đến người đi bộ hay các
-                phương tiện khác.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải bật tín hiệu báo cho các phương tiện khác biết khi ra, vào vị trí dừng, đỗ và đảm bảo không làm ảnh hưởng đến người đi bộ hay các phương tiện khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="102" article="18" chapter="2">
+    <CONVERSATION id="102"
+        article="18"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Những vị trí nào người lái xe không được dừng hoặc đỗ xe?</QUESTION>
             <QUESTION>Có những nơi nào tài xế tuyệt đối không được phép dừng, đỗ xe?</QUESTION>
@@ -1394,14 +1407,12 @@
             <QUESTION>Đâu là các khu vực cấm dừng, đỗ xe để đảm bảo an toàn giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện không được dừng, đỗ xe ở các vị trí như: bên trái
-                đường một chiều, đoạn đường cong, đầu dốc bị che khuất, trên cầu, dưới gầm cầu vượt
-                (trừ nơi cho phép), nơi giao nhau, điểm đón trả khách, trước cổng cơ quan, trên
-                đường dành cho người đi bộ, trên làn xe buýt, nơi cản trở biển báo giao thông, hoặc
-                nơi có thể gây nguy hiểm khác.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện không được dừng, đỗ xe ở các vị trí như: bên trái đường một chiều, đoạn đường cong, đầu dốc bị che khuất, trên cầu, dưới gầm cầu vượt (trừ nơi cho phép), nơi giao nhau, điểm đón trả khách, trước cổng cơ quan, trên đường dành cho người đi bộ, trên làn xe buýt, nơi cản trở biển báo giao thông, hoặc nơi có thể gây nguy hiểm khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="103" article="18" chapter="2">
+    <CONVERSATION id="103"
+        article="18"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi dừng hoặc đỗ xe trên đường bộ, người lái cần chú ý đến vị trí như thế nào?</QUESTION>
             <QUESTION>Người lái xe nên chọn vị trí nào khi muốn dừng hoặc đỗ xe trên đường?</QUESTION>
@@ -1409,12 +1420,12 @@
             <QUESTION>Khi dừng xe trên đường không có lề, tài xế cần lưu ý điều gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Khi dừng, đỗ xe, người điều khiển chỉ được dừng ở nơi có lề đường rộng hoặc khu
-                đất bên ngoài làn xe chạy. Nếu không có lề, xe phải dừng sát mép đường bên phải theo
-                chiều đi của mình để không gây cản trở giao thông.</ANSWER>
+            <ANSWER>Khi dừng, đỗ xe, người điều khiển chỉ được dừng ở nơi có lề đường rộng hoặc khu đất bên ngoài làn xe chạy. Nếu không có lề, xe phải dừng sát mép đường bên phải theo chiều đi của mình để không gây cản trở giao thông.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="104" article="18" chapter="2">
+    <CONVERSATION id="104"
+        article="18"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người lái xe cần tuân thủ quy định gì khi dừng, đỗ xe trên đường phố?</QUESTION>
             <QUESTION>Khi dừng, đỗ xe trong khu vực đô thị, tài xế phải chú ý gì?</QUESTION>
@@ -1422,28 +1433,25 @@
             <QUESTION>Có quy định nào về khoảng cách khi dừng xe gần lề đường hoặc vỉa hè?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trên đường phố, xe phải dừng, đỗ sát lề hoặc vỉa hè bên phải theo chiều đi. Bánh
-                xe gần nhất không được cách lề quá 0,25 mét và không gây cản trở cho người đi bộ hay
-                phương tiện khác.</ANSWER>
+            <ANSWER>Trên đường phố, xe phải dừng, đỗ sát lề hoặc vỉa hè bên phải theo chiều đi. Bánh xe gần nhất không được cách lề quá 0,25 mét và không gây cản trở cho người đi bộ hay phương tiện khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="105" article="18" chapter="2">
+    <CONVERSATION id="105"
+        article="18"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Trong trường hợp xe gặp sự cố buộc phải dừng, đỗ tại nơi cấm, người lái cần
-                làm gì?</QUESTION>
+            <QUESTION>Trong trường hợp xe gặp sự cố buộc phải dừng, đỗ tại nơi cấm, người lái cần làm gì?</QUESTION>
             <QUESTION>Nếu xe bị hỏng ở nơi cấm dừng, đỗ, tài xế cần thực hiện biện pháp gì?</QUESTION>
-            <QUESTION>Khi không may phải dừng xe tại nơi không được phép, người điều khiển cần làm
-                gì để cảnh báo?</QUESTION>
-            <QUESTION>Trong tình huống khẩn cấp buộc phải đỗ xe sai quy định, tài xế cần chú ý ra
-                sao?</QUESTION>
+            <QUESTION>Khi không may phải dừng xe tại nơi không được phép, người điều khiển cần làm gì để cảnh báo?</QUESTION>
+            <QUESTION>Trong tình huống khẩn cấp buộc phải đỗ xe sai quy định, tài xế cần chú ý ra sao?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nếu buộc phải dừng, đỗ tại nơi cấm do sự cố, người lái phải bật đèn khẩn cấp
-                hoặc đặt biển cảnh báo phía sau xe để báo hiệu cho các phương tiện khác biết, tránh
-                gây tai nạn.</ANSWER>
+            <ANSWER>Nếu buộc phải dừng, đỗ tại nơi cấm do sự cố, người lái phải bật đèn khẩn cấp hoặc đặt biển cảnh báo phía sau xe để báo hiệu cho các phương tiện khác biết, tránh gây tai nạn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="106" article="19" chapter="2">
+    <CONVERSATION id="106"
+        article="19"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi nào người lái hoặc hành khách được phép mở cửa xe?</QUESTION>
             <QUESTION>Trong trường hợp nào việc mở cửa xe mới được chấp nhận?</QUESTION>
@@ -1451,72 +1459,64 @@
             <QUESTION>Khi nào thì hành động mở cửa xe được coi là đúng quy định và an toàn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Chỉ được phép mở cửa xe khi xe đã dừng, đỗ hoàn toàn để đảm bảo an toàn cho bản
-                thân và những người xung quanh.</ANSWER>
+            <ANSWER>Chỉ được phép mở cửa xe khi xe đã dừng, đỗ hoàn toàn để đảm bảo an toàn cho bản thân và những người xung quanh.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="107" article="19" chapter="2">
+    <CONVERSATION id="107"
+        article="19"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Người mở cửa xe cần tuân thủ những nguyên tắc nào để đảm bảo an toàn?</QUESTION>
             <QUESTION>Trước khi mở cửa xe, người mở cửa cần làm gì để tránh gây nguy hiểm?</QUESTION>
             <QUESTION>Làm thế nào để mở cửa xe an toàn mà không gây cản trở giao thông?</QUESTION>
-            <QUESTION>Người ngồi trong xe phải chú ý gì khi ra khỏi xe để đảm bảo an toàn cho bản
-                thân và người khác?</QUESTION>
+            <QUESTION>Người ngồi trong xe phải chú ý gì khi ra khỏi xe để đảm bảo an toàn cho bản thân và người khác?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Trước khi mở cửa, người mở cửa phải quan sát kỹ phía trước, phía sau và bên mở
-                cửa. Chỉ khi đảm bảo không có nguy hiểm từ các phương tiện khác hoặc người đi bộ mới
-                được mở cửa và không được để cửa xe mở lâu nếu không an toàn.</ANSWER>
+            <ANSWER>Trước khi mở cửa, người mở cửa phải quan sát kỹ phía trước, phía sau và bên mở cửa. Chỉ khi đảm bảo không có nguy hiểm từ các phương tiện khác hoặc người đi bộ mới được mở cửa và không được để cửa xe mở lâu nếu không an toàn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="108" article="20" chapter="2">
+    <CONVERSATION id="108"
+        article="20"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi nào người lái xe cần bật đèn chiếu sáng phía trước?</QUESTION>
-            <QUESTION>Trong những trường hợp nào người điều khiển phương tiện phải sử dụng đèn chiếu
-                sáng?</QUESTION>
+            <QUESTION>Trong những trường hợp nào người điều khiển phương tiện phải sử dụng đèn chiếu sáng?</QUESTION>
             <QUESTION>Khi lái xe, thời điểm nào yêu cầu phải bật đèn pha hoặc đèn cốt?</QUESTION>
-            <QUESTION>Người lái xe cần làm gì để đảm bảo tầm nhìn khi di chuyển trong điều kiện thời
-                tiết xấu hoặc ban đêm?</QUESTION>
+            <QUESTION>Người lái xe cần làm gì để đảm bảo tầm nhìn khi di chuyển trong điều kiện thời tiết xấu hoặc ban đêm?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người điều khiển phương tiện phải bật đèn chiếu sáng phía trước từ 18 giờ hôm
-                trước đến 06 giờ hôm sau hoặc khi có sương mù, khói, bụi, trời mưa hay thời tiết xấu
-                làm hạn chế tầm nhìn.</ANSWER>
+            <ANSWER>Người điều khiển phương tiện phải bật đèn chiếu sáng phía trước từ 18 giờ hôm trước đến 06 giờ hôm sau hoặc khi có sương mù, khói, bụi, trời mưa hay thời tiết xấu làm hạn chế tầm nhìn.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="109" article="20" chapter="2">
+    <CONVERSATION id="109"
+        article="20"
+        chapter="2">
         <QUESTIONS>
             <QUESTION>Khi gặp người đi bộ qua đường, người lái xe cần sử dụng đèn như thế nào?</QUESTION>
-            <QUESTION>Người điều khiển phương tiện nên điều chỉnh đèn ra sao khi gặp người sang
-                đường?</QUESTION>
-            <QUESTION>Trong tình huống gặp người đi bộ, việc sử dụng đèn chiếu sáng cần tuân thủ quy
-                định gì?</QUESTION>
-            <QUESTION>Khi có người băng qua đường, tài xế cần làm gì với hệ thống đèn xe để đảm bảo
-                an toàn?</QUESTION>
+            <QUESTION>Người điều khiển phương tiện nên điều chỉnh đèn ra sao khi gặp người sang đường?</QUESTION>
+            <QUESTION>Trong tình huống gặp người đi bộ, việc sử dụng đèn chiếu sáng cần tuân thủ quy định gì?</QUESTION>
+            <QUESTION>Khi có người băng qua đường, tài xế cần làm gì với hệ thống đèn xe để đảm bảo an toàn?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Khi gặp người đi bộ qua đường, người lái xe phải tắt đèn chiếu xa và bật đèn
-                chiếu gần để không gây chói mắt, đảm bảo an toàn cho người qua đường.</ANSWER>
+            <ANSWER>Khi gặp người đi bộ qua đường, người lái xe phải tắt đèn chiếu xa và bật đèn chiếu gần để không gây chói mắt, đảm bảo an toàn cho người qua đường.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="110" article="20" chapter="2">
+    <CONVERSATION id="110"
+        article="20"
+        chapter="2">
         <QUESTIONS>
-            <QUESTION>Người lái xe cần sử dụng đèn ra sao khi đi qua khu vực đông dân cư vào ban
-                đêm?</QUESTION>
-            <QUESTION>Khi lái xe trong khu vực dân cư có đèn đường hoạt động, tài xế nên dùng đèn
-                thế nào?</QUESTION>
-            <QUESTION>Trong khu đông dân cư, người lái xe cần điều chỉnh đèn ra sao để không gây ảnh
-                hưởng đến người khác?</QUESTION>
-            <QUESTION>Có quy định gì về việc sử dụng đèn khi di chuyển qua các khu dân cư có hệ
-                thống chiếu sáng?</QUESTION>
+            <QUESTION>Người lái xe cần sử dụng đèn ra sao khi đi qua khu vực đông dân cư vào ban đêm?</QUESTION>
+            <QUESTION>Khi lái xe trong khu vực dân cư có đèn đường hoạt động, tài xế nên dùng đèn thế nào?</QUESTION>
+            <QUESTION>Trong khu đông dân cư, người lái xe cần điều chỉnh đèn ra sao để không gây ảnh hưởng đến người khác?</QUESTION>
+            <QUESTION>Có quy định gì về việc sử dụng đèn khi di chuyển qua các khu dân cư có hệ thống chiếu sáng?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Khi đi qua khu vực đông dân cư có hệ thống chiếu sáng đang hoạt động, người điều
-                khiển phương tiện phải tắt đèn chiếu xa và sử dụng đèn chiếu gần để tránh gây lóa
-                cho người khác.</ANSWER>
+            <ANSWER>Khi đi qua khu vực đông dân cư có hệ thống chiếu sáng đang hoạt động, người điều khiển phương tiện phải tắt đèn chiếu xa và sử dụng đèn chiếu gần để tránh gây lóa cho người khác.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="111" article="58" chapter="4">
+    <CONVERSATION id="111"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Khi vi phạm giao thông, điểm trên giấy phép lái xe bị trừ như thế nào?</QUESTION>
             <QUESTION>Mức điểm bị trừ khi vi phạm giao thông được tính ra sao?</QUESTION>
@@ -1524,12 +1524,12 @@
             <QUESTION>Điểm trên giấy phép lái xe bị giảm như thế nào khi vi phạm?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Số điểm trừ mỗi lần vi phạm tùy thuộc vào tính chất, mức độ của hành vi vi phạm.
-                Dữ liệu về điểm trừ sẽ được cập nhật ngay sau khi quyết định xử phạt có hiệu lực và
-                người vi phạm sẽ được thông báo.</ANSWER>
+            <ANSWER>Số điểm trừ mỗi lần vi phạm tùy thuộc vào tính chất, mức độ của hành vi vi phạm. Dữ liệu về điểm trừ sẽ được cập nhật ngay sau khi quyết định xử phạt có hiệu lực và người vi phạm sẽ được thông báo.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="112" article="58" chapter="4">
+    <CONVERSATION id="112"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Khi nào giấy phép lái xe được phục hồi đủ 12 điểm?</QUESTION>
             <QUESTION>Bao lâu thì người lái xe được khôi phục toàn bộ điểm trên giấy phép?</QUESTION>
@@ -1537,11 +1537,12 @@
             <QUESTION>Làm sao để được hoàn lại 12 điểm trên giấy phép lái xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nếu giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm nào trong vòng 12
-                tháng kể từ lần trừ điểm gần nhất, người lái xe sẽ được phục hồi đủ 12 điểm.</ANSWER>
+            <ANSWER>Nếu giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm nào trong vòng 12 tháng kể từ lần trừ điểm gần nhất, người lái xe sẽ được phục hồi đủ 12 điểm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="113" article="58" chapter="4">
+    <CONVERSATION id="113"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Điều gì xảy ra khi giấy phép lái xe bị trừ hết điểm?</QUESTION>
             <QUESTION>Người lái xe bị trừ hết điểm sẽ bị xử lý như thế nào?</QUESTION>
@@ -1549,25 +1550,25 @@
             <QUESTION>Khi không còn điểm trên giấy phép lái xe, người lái xe phải làm gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người có giấy phép lái xe bị trừ hết điểm không được điều khiển phương tiện. Sau
-                ít nhất 06 tháng kể từ ngày bị trừ hết điểm, người đó phải tham gia kiểm tra kiến
-                thức pháp luật về giao thông. Nếu đạt yêu cầu, họ sẽ được phục hồi đủ 12 điểm.</ANSWER>
+            <ANSWER>Người có giấy phép lái xe bị trừ hết điểm không được điều khiển phương tiện. Sau ít nhất 06 tháng kể từ ngày bị trừ hết điểm, người đó phải tham gia kiểm tra kiến thức pháp luật về giao thông. Nếu đạt yêu cầu, họ sẽ được phục hồi đủ 12 điểm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="114" article="58" chapter="4">
+    <CONVERSATION id="114"
+        article="58"
+        chapter="4">
         <QUESTIONS>
-            <QUESTION>Sau khi đổi, cấp lại hoặc nâng hạng, điểm trên giấy phép lái xe có thay đổi
-                không?</QUESTION>
+            <QUESTION>Sau khi đổi, cấp lại hoặc nâng hạng, điểm trên giấy phép lái xe có thay đổi không?</QUESTION>
             <QUESTION>Khi đổi giấy phép lái xe, điểm số có được giữ lại không?</QUESTION>
             <QUESTION>Việc nâng hạng giấy phép lái xe có ảnh hưởng đến số điểm không?</QUESTION>
             <QUESTION>Điểm số trên giấy phép lái xe có bị mất sau khi cấp lại không?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Sau khi đổi, cấp lại hoặc nâng hạng, giấy phép lái xe vẫn giữ nguyên số điểm như
-                trước đó.</ANSWER>
+            <ANSWER>Sau khi đổi, cấp lại hoặc nâng hạng, giấy phép lái xe vẫn giữ nguyên số điểm như trước đó.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="115" article="58" chapter="4">
+    <CONVERSATION id="115"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Ai có thẩm quyền trừ điểm giấy phép lái xe?</QUESTION>
             <QUESTION>Cơ quan nào được phép trừ điểm trên giấy phép lái xe?</QUESTION>
@@ -1575,24 +1576,25 @@
             <QUESTION>Ai chịu trách nhiệm xử lý và trừ điểm người vi phạm giao thông?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người có thẩm quyền xử phạt vi phạm hành chính có thẩm quyền trừ điểm giấy phép
-                lái xe.</ANSWER>
+            <ANSWER>Người có thẩm quyền xử phạt vi phạm hành chính có thẩm quyền trừ điểm giấy phép lái xe.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="116" article="58" chapter="4">
+    <CONVERSATION id="116"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Chính phủ có vai trò gì trong việc quy định trừ điểm giấy phép lái xe?</QUESTION>
             <QUESTION>Ai quy định chi tiết về việc trừ và phục hồi điểm giấy phép lái xe?</QUESTION>
             <QUESTION>Chính phủ điều chỉnh như thế nào về việc trừ điểm GPLX?</QUESTION>
-            <QUESTION>Ai chịu trách nhiệm ban hành lộ trình thực hiện quy định về điểm giấy phép lái
-                xe?</QUESTION>
+            <QUESTION>Ai chịu trách nhiệm ban hành lộ trình thực hiện quy định về điểm giấy phép lái xe?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Chính phủ quy định chi tiết về việc trừ điểm, phục hồi điểm giấy phép lái xe,
-                bao gồm trình tự, thủ tục và lộ trình thực hiện.</ANSWER>
+            <ANSWER>Chính phủ quy định chi tiết về việc trừ điểm, phục hồi điểm giấy phép lái xe, bao gồm trình tự, thủ tục và lộ trình thực hiện.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="117" article="58" chapter="4">
+    <CONVERSATION id="117"
+        article="58"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Bộ Công an đảm nhiệm vai trò gì trong việc phục hồi điểm giấy phép lái xe?</QUESTION>
             <QUESTION>Ai chịu trách nhiệm tổ chức kiểm tra để phục hồi điểm GPLX?</QUESTION>
@@ -1600,11 +1602,12 @@
             <QUESTION>Vai trò của Bộ Công an trong việc khôi phục điểm giấy phép lái xe là gì?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bộ trưởng Bộ Công an quy định chi tiết về việc phục hồi điểm giấy phép lái xe,
-                bao gồm tổ chức kiểm tra và xác nhận kết quả đạt yêu cầu để phục hồi đủ 12 điểm.</ANSWER>
+            <ANSWER>Bộ trưởng Bộ Công an quy định chi tiết về việc phục hồi điểm giấy phép lái xe, bao gồm tổ chức kiểm tra và xác nhận kết quả đạt yêu cầu để phục hồi đủ 12 điểm.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="118" article="59" chapter="4">
+    <CONVERSATION id="118"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Người lái xe gắn máy cần tối thiểu bao nhiêu tuổi?</QUESTION>
             <QUESTION>Bao nhiêu tuổi thì được phép lái xe gắn máy?</QUESTION>
@@ -1615,7 +1618,9 @@
             <ANSWER>Người đủ 16 tuổi trở lên được phép điều khiển xe gắn máy.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="119" article="59" chapter="4">
+    <CONVERSATION id="119"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Người đủ 18 tuổi trở lên được cấp các loại giấy phép lái xe nào?</QUESTION>
             <QUESTION>Đủ 18 tuổi được thi và cấp giấy phép lái xe hạng nào?</QUESTION>
@@ -1623,11 +1628,12 @@
             <QUESTION>Những loại bằng lái xe nào được cấp cho người từ 18 tuổi?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1 và được
-                cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông để lái xe máy chuyên dùng.</ANSWER>
+            <ANSWER>Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1 và được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông để lái xe máy chuyên dùng.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="120" article="59" chapter="4">
+    <CONVERSATION id="120"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Độ tuổi tối thiểu để được cấp giấy phép lái xe hạng C và BE là bao nhiêu?</QUESTION>
             <QUESTION>Bao nhiêu tuổi thì được lái xe hạng C hoặc BE?</QUESTION>
@@ -1638,7 +1644,9 @@
             <ANSWER>Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C và BE.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="121" article="59" chapter="4">
+    <CONVERSATION id="121"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Để lái xe hạng D1, D2, C1E, CE, người điều khiển phải đủ bao nhiêu tuổi?</QUESTION>
             <QUESTION>Độ tuổi tối thiểu để lái xe hạng D1, D2, C1E, CE là bao nhiêu?</QUESTION>
@@ -1649,7 +1657,9 @@
             <ANSWER>Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="122" article="59" chapter="4">
+    <CONVERSATION id="122"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Bao nhiêu tuổi thì được cấp giấy phép lái xe hạng D, D1E, D2E, DE?</QUESTION>
             <QUESTION>Người lái xe hạng D và các hạng nâng cao cần đủ bao nhiêu tuổi?</QUESTION>
@@ -1660,21 +1670,25 @@
             <ANSWER>Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="123" article="59" chapter="4">
+    <CONVERSATION id="123"
+        article="59"
+        chapter="4">
         <QUESTIONS>
-            <QUESTION>Độ tuổi tối đa để lái xe chở người trên 29 chỗ hoặc xe giường nằm là bao
-                nhiêu?</QUESTION>
+            <QUESTION>Độ tuổi tối đa để lái xe chở người trên 29 chỗ hoặc xe giường nằm là bao nhiêu?</QUESTION>
             <QUESTION>Người lái xe buýt trên 29 chỗ được lái đến bao nhiêu tuổi?</QUESTION>
             <QUESTION>Tuổi giới hạn cho lái xe giường nằm là bao nhiêu?</QUESTION>
             <QUESTION>Bao nhiêu tuổi thì không được lái xe khách lớn và xe giường nằm?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Nam: Đủ 57 tuổi trở lên không được lái xe chở người trên 29 chỗ hoặc xe giường
-                nằm.
-                Nữ: Đủ 55 tuổi trở lên không được lái xe chở người trên 29 chỗ hoặc xe giường nằm.</ANSWER>
+            <ANSWER>
+                Nam: Đủ 57 tuổi trở lên không được lái xe chở người trên 29 chỗ hoặc xe giường nằm.
+                Nữ: Đủ 55 tuổi trở lên không được lái xe chở người trên 29 chỗ hoặc xe giường nằm.
+            </ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="124" article="59" chapter="4">
+    <CONVERSATION id="124"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Ai quy định tiêu chuẩn và việc khám sức khỏe cho người lái xe?</QUESTION>
             <QUESTION>Cơ quan nào ban hành quy định về sức khỏe người lái xe?</QUESTION>
@@ -1682,11 +1696,12 @@
             <QUESTION>Việc khám sức khỏe lái xe do đơn vị nào quy định?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bộ trưởng Bộ Y tế quy định tiêu chuẩn sức khỏe, khám sức khỏe định kỳ cho người
-                lái xe và xây dựng cơ sở dữ liệu về sức khỏe người lái.</ANSWER>
+            <ANSWER>Bộ trưởng Bộ Y tế quy định tiêu chuẩn sức khỏe, khám sức khỏe định kỳ cho người lái xe và xây dựng cơ sở dữ liệu về sức khỏe người lái.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
-    <CONVERSATION id="125" article="59" chapter="4">
+    <CONVERSATION id="125"
+        article="59"
+        chapter="4">
         <QUESTIONS>
             <QUESTION>Ai quy định độ tuổi lái xe trong lực lượng quân đội và công an?</QUESTION>
             <QUESTION>Độ tuổi lái xe trong quân đội, công an do ai quy định?</QUESTION>
@@ -1694,8 +1709,7 @@
             <QUESTION>Cơ quan nào quản lý tuổi lái xe trong lực lượng vũ trang?</QUESTION>
         </QUESTIONS>
         <ANSWERS>
-            <ANSWER>Bộ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Công an quy định độ tuổi lái xe cho lực
-                lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.</ANSWER>
+            <ANSWER>Bộ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Công an quy định độ tuổi lái xe cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.</ANSWER>
         </ANSWERS>
     </CONVERSATION>
 </CIVIL-CODE>
