@@ -107,7 +107,12 @@ class RAG:
                 num_beams=4,
                 pad_token_id=self.tokenizer.eos_token_id,
             )
-            return generated_text[0]['generated_text']
+            # Extract only the response part
+            full_text = generated_text[0]['generated_text']
+            response_marker = "Trả lời dựa trên các điều luật trên:"
+            if response_marker in full_text:
+                return full_text.split(response_marker)[1].strip()
+            return full_text
         else:
             payload = {
                 "model": "llama3.2",
