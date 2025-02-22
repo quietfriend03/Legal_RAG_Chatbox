@@ -89,7 +89,7 @@ class VectorDBIndexer:
         print("Index created successfully.")
 
 # Initialize and run indexing
-json_file = '../Dữ liệu huấn luyện/vn_legal_framework.json'
+json_file = './Dữ liệu huấn luyện/vn_legal_framework.json'
 indexer = VectorDBIndexer(collection_name='rag_chatbox_db')
 indexer.process_json_data(json_file)
 indexer.create_index()

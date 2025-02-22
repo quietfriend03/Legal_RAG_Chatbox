@@ -48,3 +48,7 @@ cd utilities
 python entities.py
 ```
 ### 3. Chạy mô hình
+Sau khi hoàn tất tải dữ liệu cũng như đảm bảo rằng mô hình của chúng ta đã chạy, ta có thể chạy ứng dụng bằng cách sử dụng câu lệnh sau:
+```sh
+python app.py
+```
