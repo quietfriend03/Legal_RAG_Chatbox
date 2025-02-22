@@ -1,0 +1,2 @@
+## File vn_legal_framework.json
+**Tổng quát**: Là dữ liệu đã được tổng hợp từ những file .JSON từ trong Dữ liệu luật pháp VN nhằm để phục vụ việc để huấn luyện mô hình và có thể indexing dữ liệu một cách đơn giản hơn

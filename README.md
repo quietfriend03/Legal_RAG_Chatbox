@@ -1,4 +1,4 @@
-# Xây dựng ứng dụng hỏi-đáp luật pháp dựa trên RAG
+# Xây dựng mô hình hỏi-đáp luật pháp dựa trên RAG
 ## Giới thiệu đề tài
 Mô hình hỏi-đáp luật dựa trên RAG là một trong những mô hình để có giúp người dùng hỏi đáp những vấn đề liên quan đến pháp luật Việt Nam, giúp cải thiện khả năng hiểu biết của người dùng về luật pháp của Việt Nam. 
 ## Yêu cầu cho dự án
