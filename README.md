@@ -4,6 +4,12 @@ Mô hình hỏi-đáp luật dựa trên RAG là một trong những mô hình �
 
 ## Cài đặt môi trường
 ### 1. Cài đặt các thư viện cần thiết
+Để có thể cài đặt thư viện cần thiết ta sẽ cần khởi tạo env cho môi thư mục code của chúng ta bằng câu lệnh sau:
+```sh
+python3 -m venv myenv
+source myenv/bin/activate
+```
+Sau đó ta sẽ xài lệnh sau để tải các module cần thiết cho dự án:
 ```sh
 pip install -r requirements.txt
 ```
